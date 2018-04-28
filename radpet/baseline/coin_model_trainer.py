@@ -14,7 +14,7 @@ def get_features(data):
     features = pd.DataFrame()
     features['price'] = data['price']
     features['marketCap'] = data['marketCap']
-    features['supply'] = data['CirculatingSupply']
+    # features['supply'] = data['CirculatingSupply']
     # features['volume24h'] = data['Volume24h']
     return features
 
@@ -22,7 +22,7 @@ def get_features(data):
 def preprocess(data):
     scaled, scaler = scale(data)
     data = series_to_supervised(scaled, 1, 1)
-    data = data.drop(data.columns[[4, 5]], axis=1)
+    data = data.drop(data.columns[[3]], axis=1)
 
     return data, scaler
 
@@ -44,7 +44,7 @@ def create_model(timesteps, units):
     return model
 
 
-def create_model_for_coin(coin, basepath='./'):
+def create_model_for_coin(coin, basepath='./2features'):
     coin_data = pd.read_csv('../data/train/' + str(coin) + '.csv', index_col='time')
 
     features = get_features(coin_data).values
