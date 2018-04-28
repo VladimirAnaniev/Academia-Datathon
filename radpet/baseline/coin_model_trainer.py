@@ -1,5 +1,5 @@
 import os
-
+import numpy as np
 import pandas as pd
 from keras import Sequential
 from keras.callbacks import TensorBoard, ModelCheckpoint, EarlyStopping, ReduceLROnPlateau
@@ -13,16 +13,14 @@ from radpet.utilki.timeframe import series_to_supervised
 def get_features(data):
     features = pd.DataFrame()
     features['price'] = data['price']
-    features['marketCap'] = data['marketCap']
-    features['supply'] = data['CirculatingSupply']
-    # features['volume24h'] = data['Volume24h']
+    # features['marketCap'] = data['marketCap']
     return features
 
 
 def preprocess(data):
     scaled, scaler = scale(data)
     data = series_to_supervised(scaled, 1, 1)
-    data = data.drop(data.columns[[4, 5]], axis=1)
+    # data = data.drop(data.columns[[3]], axis=1)
 
     return data, scaler
 
@@ -44,20 +42,28 @@ def create_model(timesteps, units):
     return model
 
 
-def create_model_for_coin(coin, basepath='./'):
+def create_model_for_coin(coin, basepath='./only_price_on_full'):
     coin_data = pd.read_csv('../data/train/' + str(coin) + '.csv', index_col='time')
+    coin_data_test = pd.read_csv('../data/test/' + str(coin) + '.csv', index_col='time')
 
     features = get_features(coin_data).values
     features, scaler = preprocess(features)
 
-    n_train = 10000
+    # n_train = 10000
+    #
+    # train = features.values[:n_train, :]
+    # test = features.values[n_train:, :]
+    #
+    # train_X, train_y = split(train)
+    #
+    # test_X, test_y = split(test)
 
-    train = features.values[:n_train, :]
-    test = features.values[n_train:, :]
+    train_X, train_y = split(features.values)
 
-    train_X, train_y = split(train)
+    features_test = get_features(coin_data_test).values
+    features_test, scaler_test = preprocess(features_test)
 
-    test_X, test_y = split(test)
+    test_X, test_y = split(features_test.values)
 
     # callbacks
     coin_path = os.path.join(basepath, str(coin))
@@ -82,10 +88,10 @@ def create_model_for_coin(coin, basepath='./'):
 
     test_X = test_X.reshape((test_X.shape[0], test_X.shape[2]))
 
-    inv_yhat = inverse_scale(yhat, test_X, scaler)
+    inv_yhat = inverse_scale(yhat, test_X, scaler_test)
 
     test_y = test_y.reshape((len(test_y), 1))
-    inv_y = inverse_scale(test_y, test_X, scaler)
+    inv_y = inverse_scale(test_y, test_X, scaler_test)
 
     df_y_pred = pd.DataFrame(data={
         'price': inv_yhat
@@ -95,15 +101,15 @@ def create_model_for_coin(coin, basepath='./'):
     score_mape = mape(y_pred=inv_yhat, y_true=inv_y)
     print('Mape score on val {} for {} '.format(score_mape, coin))
 
-    return coin
+    return score_mape
 
 
 if __name__ == '__main__':
 
     selected_coins = pd.read_csv('../SELECTED_COINS.csv').values.reshape((20,))
-
+    scores = []
     for coin in selected_coins:
-        create_model_for_coin(coin)
+        scores.append(create_model_for_coin(coin))
         # #
         # test = pd.read_csv('../data/test/1442.csv', index_col='time')
         # test = get_features(test).values
@@ -121,3 +127,5 @@ if __name__ == '__main__':
         #
         # score_mape = mape(y_pred=inv_yhat, y_true=inv_y)
         # print('Mape score on test ', score_mape)
+
+    print(np.array(scores).mean())
