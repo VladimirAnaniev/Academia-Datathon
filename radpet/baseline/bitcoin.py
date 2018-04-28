@@ -55,7 +55,7 @@ if __name__ == '__main__':
     test_X, test_y = split(test)
 
     model = Sequential()
-    model.add(GRU(50, input_shape=(train_X.shape[1], train_X.shape[2])))
+    model.add(GRU(100, input_shape=(train_X.shape[1], train_X.shape[2])))
     model.add(Dense(1))
     model.compile(loss='mae', optimizer='adam', metrics=['mse'])
 
@@ -65,11 +65,11 @@ if __name__ == '__main__':
 
     tensorboard = TensorBoard(log_dir='./logs')
     checkpoint = ModelCheckpoint(os.path.join('./checkpoints', 'weights.{epoch:02d}-{val_loss:.2f}.hdf5'))
-    earlystopping = EarlyStopping(patience=5)
+    earlystopping = EarlyStopping(patience=4)
     reduce_lr = ReduceLROnPlateau(monitor='val_loss', factor=0.2,
                                   patience=3, min_lr=0.001)
 
-    model.fit(train_X, train_y, epochs=50, batch_size=32, validation_data=(test_X, test_y),
+    model.fit(train_X, train_y, epochs=20, batch_size=60, validation_data=(test_X, test_y),
               shuffle=False, callbacks=[tensorboard, checkpoint, earlystopping])
 
     yhat = model.predict(test_X)
@@ -82,7 +82,7 @@ if __name__ == '__main__':
     inv_y = inverse_scale(test_y, test_X, scaler)
 
     df_y_pred = pd.DataFrame(data={
-        'price': inv_y
+        'price': inv_yhat
     })
     df_y_pred.to_csv('./checkpoints/y_pred_val.csv', index=False)
 
