@@ -1,0 +1,1690 @@
+Id,name,Name,Date,Tag
+1442,bitcoin,Bitcoin,2018-01-15 20:40:27.557,BTC
+1443,ethereum,Ethereum,2018-01-15 20:40:27.557,ETH
+1444,ripple,Ripple,2018-01-15 20:40:27.557,XRP
+1445,bitcoin-cash,Bitcoin Cash,2018-01-15 20:40:27.560,BCH
+1446,cardano,Cardano,2018-01-15 20:40:27.560,ADA
+1447,nem,Nem,2018-01-15 20:40:27.560,XEM
+1448,litecoin,Litecoin,2018-01-15 20:40:27.560,LTC
+1449,neo,Neo,2018-01-15 20:40:27.560,NEO
+1450,stellar,Stellar,2018-01-15 20:40:27.560,XLM
+1451,iota,Iota,2018-01-15 20:40:27.560,MIOTA
+1452,eos,Eos,2018-01-15 20:40:27.560,EOS
+1453,dash,Dash,2018-01-15 20:40:27.560,DASH
+1454,monero,Monero,2018-01-15 20:40:27.560,XMR
+1455,tron,Tron,2018-01-15 20:40:27.563,TRX
+1456,bitcoin-gold,Bitcoin Gold,2018-01-15 20:40:27.563,BTG
+1457,ethereum-classic,Ethereum Classic,2018-01-15 20:40:27.563,ETC
+1458,qtum,Qtum,2018-01-15 20:40:27.563,QTUM
+1459,icon,Icon,2018-01-15 20:40:27.563,ICX
+1460,lisk,Lisk,2018-01-15 20:40:27.563,LSK
+1461,raiblocks,Raiblocks,2018-01-15 20:40:27.563,XRB
+1462,omisego,Omisego,2018-01-15 20:40:27.563,OMG
+1463,ardor,Ardor,2018-01-15 20:40:27.563,ARDR
+1464,stratis,Stratis,2018-01-15 20:40:27.567,STRAT
+1465,zcash,Zcash,2018-01-15 20:40:27.567,ZEC
+1466,binance-coin,Binance Coin,2018-01-15 20:40:27.567,BNB
+1467,verge,Verge,2018-01-15 20:40:27.567,XVG
+1468,siacoin,Siacoin,2018-01-15 20:40:27.567,SC
+1469,bitconnect,Bitconnect,2018-01-15 20:40:27.567,BCC
+1470,populous,Populous,2018-01-15 20:40:27.567,PPT
+1471,bytecoin-bcn,Bytecoin Bcn,2018-01-15 20:40:27.567,BCN
+1472,vechain,Vechain,2018-01-15 20:40:27.567,VEN
+1473,status,Status,2018-01-15 20:40:27.567,SNT
+1474,tether,Tether,2018-01-15 20:40:27.567,USDT
+1475,bitshares,Bitshares,2018-01-15 20:40:27.570,BTS
+1476,steem,Steem,2018-01-15 20:40:27.570,STEEM
+1477,dogecoin,Dogecoin,2018-01-15 20:40:27.570,DOGE
+1478,waves,Waves,2018-01-15 20:40:27.570,WAVES
+1479,kucoin-shares,Kucoin Shares,2018-01-15 20:40:27.570,KCS
+1480,augur,Augur,2018-01-15 20:40:27.570,REP
+1481,digibyte,Digibyte,2018-01-15 20:40:27.570,DGB
+1482,0x,0x,2018-01-15 20:40:27.570,ZRX
+1483,komodo,Komodo,2018-01-15 20:40:27.570,KMD
+1484,dentacoin,Dentacoin,2018-01-15 20:40:27.570,DCN
+1485,dragonchain,Dragonchain,2018-01-15 20:40:27.570,DRGN
+1486,veritaseum,Veritaseum,2018-01-15 20:40:27.570,VERI
+1487,golem-network-tokens,Golem Network Tokens,2018-01-15 20:40:27.573,GNT
+1488,qash,Qash,2018-01-15 20:40:27.573,QASH
+1489,electroneum,Electroneum,2018-01-15 20:40:27.573,ETN
+1490,smartcash,Smartcash,2018-01-15 20:40:27.573,SMART
+1491,ark,Ark,2018-01-15 20:40:27.573,ARK
+1492,wax,Wax,2018-01-15 20:40:27.573,WAX
+1493,gas,Gas,2018-01-15 20:40:27.573,GAS
+1494,hshare,Hshare,2018-01-15 20:40:27.577,HSR
+1495,decred,Decred,2018-01-15 20:40:27.577,DCR
+1496,loopring,Loopring,2018-01-15 20:40:27.577,LRC
+1497,pivx,Pivx,2018-01-15 20:40:27.577,PIVX
+1498,kyber-network,Kyber Network,2018-01-15 20:40:27.577,KNC
+1499,basic-attention-token,Basic Attention Token,2018-01-15 20:40:27.577,BAT
+1500,walton,Walton,2018-01-15 20:40:27.577,WTC
+1501,byteball,Byteball,2018-01-15 20:40:27.577,GBYTE
+1502,zclassic,Zclassic,2018-01-15 20:40:27.577,ZCL
+1503,salt,Salt,2018-01-15 20:40:27.577,SALT
+1504,dent,Dent,2018-01-15 20:40:27.577,DENT
+1505,bytom,Bytom,2018-01-15 20:40:27.580,BTM
+1506,aion,Aion,2018-01-15 20:40:27.580,AION
+1507,funfair,Funfair,2018-01-15 20:40:27.580,FUN
+1508,factom,Factom,2018-01-15 20:40:27.580,FCT
+1509,ethos,Ethos,2018-01-15 20:40:27.580,ETHOS
+1510,experience-points,Experience Points,2018-01-15 20:40:27.580,XP
+1511,reddcoin,Reddcoin,2018-01-15 20:40:27.580,RDD
+1512,gxshares,Gxshares,2018-01-15 20:40:27.580,GXS
+1513,syscoin,Syscoin,2018-01-15 20:40:27.580,SYS
+1514,monacoin,Monacoin,2018-01-15 20:40:27.580,MONA
+1515,power-ledger,Power Ledger,2018-01-15 20:40:27.580,POWR
+1516,medibloc,Medibloc,2018-01-15 20:40:27.580,MED
+1517,aeternity,Aeternity,2018-01-15 20:40:27.580,AE
+1518,substratum,Substratum,2018-01-15 20:40:27.580,SUB
+1519,enigma-project,Enigma Project,2018-01-15 20:40:27.583,ENG
+1520,maidsafecoin,Maidsafecoin,2018-01-15 20:40:27.583,MAID
+1521,nxt,Nxt,2018-01-15 20:40:27.583,NXT
+1522,kin,Kin,2018-01-15 20:40:27.583,KIN
+1523,request-network,Request Network,2018-01-15 20:40:27.583,REQ
+1524,nexus,Nexus,2018-01-15 20:40:27.583,NXS
+1525,digixdao,Digixdao,2018-01-15 20:40:27.583,DGD
+1526,gamecredits,Gamecredits,2018-01-15 20:40:27.583,GAME
+1527,rchain,Rchain,2018-01-15 20:40:27.583,RHOC
+1528,nebulas-token,Nebulas Token,2018-01-15 20:40:27.583,NAS
+1529,particl,Particl,2018-01-15 20:40:27.583,PART
+1530,iconomi,Iconomi,2018-01-15 20:40:27.587,ICN
+1531,tenx,Tenx,2018-01-15 20:40:27.587,PAY
+1532,bancor,Bancor,2018-01-15 20:40:27.587,BNT
+1533,gnosis-gno,Gnosis Gno,2018-01-15 20:40:27.587,GNO
+1534,zcoin,Zcoin,2018-01-15 20:40:27.587,XZC
+1535,civic,Civic,2018-01-15 20:40:27.587,CVC
+1536,aelf,Aelf,2018-01-15 20:40:27.587,ELF
+1537,bitcore,Bitcore,2018-01-15 20:40:27.587,BTX
+1538,digitalnote,Digitalnote,2018-01-15 20:40:27.587,XDN
+1539,cobinhood,Cobinhood,2018-01-15 20:40:27.590,COB
+1540,chainlink,Chainlink,2018-01-15 20:40:27.590,LINK
+1541,emercoin,Emercoin,2018-01-15 20:40:27.590,EMC
+1542,bitcoindark,Bitcoindark,2018-01-15 20:40:27.590,BTCD
+1543,raiden-network-token,Raiden Network Token,2018-01-15 20:40:27.590,RDN
+1544,paccoin,Paccoin,2018-01-15 20:40:27.590,PAC
+1545,xplay,Xplay,2018-01-15 20:40:27.590,XPA
+1546,quantstamp,Quantstamp,2018-01-15 20:40:27.590,QSP
+1547,neblio,Neblio,2018-01-15 20:40:27.590,NEBL
+1548,santiment,Santiment,2018-01-15 20:40:27.590,SAN
+1549,cryptonex,Cryptonex,2018-01-15 20:40:27.590,CNX
+1550,blockv,Blockv,2018-01-15 20:40:27.590,VEE
+1551,storm,Storm,2018-01-15 20:40:27.593,STORM
+1552,rlc,Rlc,2018-01-15 20:40:27.593,RLC
+1553,pillar,Pillar,2018-01-15 20:40:27.593,PLR
+1554,skycoin,Skycoin,2018-01-15 20:40:27.593,SKY
+1555,storj,Storj,2018-01-15 20:40:27.593,STORJ
+1556,nav-coin,Nav Coin,2018-01-15 20:40:27.593,NAV
+1557,vertcoin,Vertcoin,2018-01-15 20:40:27.593,VTC
+1558,poet,Poet,2018-01-15 20:40:27.593,POE
+1559,blocknet,Blocknet,2018-01-15 20:40:27.593,BLOCK
+1560,appcoins,Appcoins,2018-01-15 20:40:27.593,APPC
+1561,edgeless,Edgeless,2018-01-15 20:40:27.593,EDG
+1562,bridgecoin,Bridgecoin,2018-01-15 20:40:27.597,BCO
+1563,dew,Dew,2018-01-15 20:40:27.597,DEW
+1564,paypie,Paypie,2018-01-15 20:40:27.597,PPP
+1565,enjin-coin,Enjin Coin,2018-01-15 20:40:27.597,ENJ
+1566,red-pulse,Red Pulse,2018-01-15 20:40:27.597,RPX
+1567,monaco,Monaco,2018-01-15 20:40:27.597,MCO
+1568,ethlend,Ethlend,2018-01-15 20:40:27.597,LEND
+1569,revain,Revain,2018-01-15 20:40:27.597,R
+1570,vibe,Vibe,2018-01-15 20:40:27.597,VIBE
+1571,time-new-bank,Time New Bank,2018-01-15 20:40:27.597,TNB
+1572,aragon,Aragon,2018-01-15 20:40:27.600,ANT
+1573,ubiq,Ubiq,2018-01-15 20:40:27.600,UBQ
+1574,singulardtv,Singulardtv,2018-01-15 20:40:27.600,SNGLS
+1575,xtrabytes,Xtrabytes,2018-01-15 20:40:27.600,XBY
+1576,sirin-labs-token,Sirin Labs Token,2018-01-15 20:40:27.600,SRN
+1577,deepbrain-chain,Deepbrain Chain,2018-01-15 20:40:27.600,DBC
+1578,achain,Achain,2018-01-15 20:40:27.600,ACT
+1579,ripio-credit-network,Ripio Credit Network,2018-01-15 20:40:27.600,RCN
+1580,simple-token,Simple Token,2018-01-15 20:40:27.600,OST
+1581,bitbay,Bitbay,2018-01-15 20:40:27.600,BAY
+1582,peercoin,Peercoin,2018-01-15 20:40:27.600,PPC
+1583,airswap,Airswap,2018-01-15 20:40:27.600,AST
+1584,sonm,Sonm,2018-01-15 20:40:27.603,SNM
+1585,spankchain,Spankchain,2018-01-15 20:40:27.603,SPANK
+1586,einsteinium,Einsteinium,2018-01-15 20:40:27.603,EMC2
+1587,centra,Centra,2018-01-15 20:40:27.603,CTR
+1588,dynamic-trading-rights,Dynamic Trading Rights,2018-01-15 20:40:27.603,DTR
+1589,attention-token-of-media,Attention Token Of Media,2018-01-15 20:40:27.603,ATM
+1590,wabi,Wabi,2018-01-15 20:40:27.603,WABI
+1591,gulden,Gulden,2018-01-15 20:40:27.603,NLG
+1592,naga,Naga,2018-01-15 20:40:27.603,NGC
+1593,adx-net,Adx Net,2018-01-15 20:40:27.603,ADX
+1594,quantum-resistant-ledger,Quantum Resistant Ledger,2018-01-15 20:40:27.603,QRL
+1595,library-credit,Library Credit,2018-01-15 20:40:27.607,LBC
+1596,cybermiles,Cybermiles,2018-01-15 20:40:27.607,CMT
+1597,streamr-datacoin,Streamr Datacoin,2018-01-15 20:40:27.607,DATA
+1598,supernet-unity,Supernet Unity,2018-01-15 20:40:27.607,UNITY
+1599,unikoin-gold,Unikoin Gold,2018-01-15 20:40:27.607,UKG
+1600,metaverse,Metaverse,2018-01-15 20:40:27.607,ETP
+1601,zencash,Zencash,2018-01-15 20:40:27.607,ZEN
+1602,decentraland,Decentraland,2018-01-15 20:40:27.607,MANA
+1603,counterparty,Counterparty,2018-01-15 20:40:27.607,XCP
+1604,triggers,Triggers,2018-01-15 20:40:27.610,TRIG
+1605,modum,Modum,2018-01-15 20:40:27.610,MOD
+1606,viacoin,Viacoin,2018-01-15 20:40:27.610,VIA
+1607,burst,Burst,2018-01-15 20:40:27.610,BURST
+1608,wings,Wings,2018-01-15 20:40:27.610,WINGS
+1609,cindicator,Cindicator,2018-01-15 20:40:27.610,CND
+1610,firstblood,Firstblood,2018-01-15 20:40:27.610,1ST
+1611,wagerr,Wagerr,2018-01-15 20:40:27.610,WGR
+1612,district0x,District0x,2018-01-15 20:40:27.610,DNT
+1613,nuls,Nuls,2018-01-15 20:40:27.610,NULS
+1614,melon,Melon,2018-01-15 20:40:27.610,MLN
+1615,lamden,Lamden,2018-01-15 20:40:27.610,TAU
+1616,hempcoin,Hempcoin,2018-01-15 20:40:27.610,THC
+1617,amber,Amber,2018-01-15 20:40:27.610,AMB
+1618,voxels,Voxels,2018-01-15 20:40:27.613,VOX
+1619,utrust,Utrust,2018-01-15 20:40:27.613,UTK
+1620,agoras-tokens,Agoras Tokens,2018-01-15 20:40:27.613,AGRS
+1621,etherparty,Etherparty,2018-01-15 20:40:27.613,FUEL
+1622,mobilego,Mobilego,2018-01-15 20:40:27.613,MGO
+1623,rise,Rise,2018-01-15 20:40:27.613,RISE
+1624,metal,Metal,2018-01-15 20:40:27.613,MTL
+1625,iot-chain,Iot Chain,2018-01-15 20:40:27.613,ITC
+1626,hive,Hive,2018-01-15 20:40:27.613,HVN
+1627,eidoo,Eidoo,2018-01-15 20:40:27.613,EDO
+1628,asch,Asch,2018-01-15 20:40:27.617,XAS
+1629,bread,Bread,2018-01-15 20:40:27.617,BRD
+1630,oyster-pearl,Oyster Pearl,2018-01-15 20:40:27.617,PRL
+1631,cofound-it,Cofound It,2018-01-15 20:40:27.617,CFI
+1632,safe-exchange-coin,Safe Exchange Coin,2018-01-15 20:40:27.617,SAFEX
+1633,cloakcoin,Cloakcoin,2018-01-15 20:40:27.617,CLOAK
+1634,coindash,Coindash,2018-01-15 20:40:27.617,CDT
+1635,iocoin,Iocoin,2018-01-15 20:40:27.617,IOC
+1636,decent,Decent,2018-01-15 20:40:27.617,DCT
+1637,gifto,Gifto,2018-01-15 20:40:27.617,GTO
+1638,coss,Coss,2018-01-15 20:40:27.617,COSS
+1639,aeon,Aeon,2018-01-15 20:40:27.620,AEON
+1640,tierion,Tierion,2018-01-15 20:40:27.620,TNT
+1641,minexcoin,Minexcoin,2018-01-15 20:40:27.620,MNX
+1642,ixledger,Ixledger,2018-01-15 20:40:27.620,IXT
+1643,voisecom,Voisecom,2018-01-15 20:40:27.620,VOISE
+1644,lunyr,Lunyr,2018-01-15 20:40:27.620,LUN
+1645,trust,Trust,2018-01-15 20:40:27.620,TRST
+1646,decision-token,Decision Token,2018-01-15 20:40:27.620,HST
+1647,presearch,Presearch,2018-01-15 20:40:27.620,PRS
+1648,genesis-vision,Genesis Vision,2018-01-15 20:40:27.620,GVT
+1649,namecoin,Namecoin,2018-01-15 20:40:27.620,NMC
+1650,feathercoin,Feathercoin,2018-01-15 20:40:27.620,FTC
+1651,jinn,Jinn,2018-01-15 20:40:27.620,JINN
+1652,shift,Shift,2018-01-15 20:40:27.620,SHIFT
+1653,groestlcoin,Groestlcoin,2018-01-15 20:40:27.623,GRS
+1654,salus,Salus,2018-01-15 20:40:27.623,SLS
+1655,tokencard,Tokencard,2018-01-15 20:40:27.623,TKN
+1656,ink,Ink,2018-01-15 20:40:27.623,INK
+1657,spectrecoin,Spectrecoin,2018-01-15 20:40:27.623,XSPEC
+1658,mooncoin,Mooncoin,2018-01-15 20:40:27.623,MOON
+1659,pura,Pura,2018-01-15 20:40:27.623,PURA
+1660,agrello-delta,Agrello Delta,2018-01-15 20:40:27.623,DLT
+1661,taas,Taas,2018-01-15 20:40:27.623,TAAS
+1662,viberate,Viberate,2018-01-15 20:40:27.627,VIB
+1663,latoken,Latoken,2018-01-15 20:40:27.627,LA
+1664,monetha,Monetha,2018-01-15 20:40:27.627,MTH
+1665,shield-xsh,Shield Xsh,2018-01-15 20:40:27.627,XSH
+1666,guppy,Guppy,2018-01-15 20:40:27.627,GUP
+1667,grid,Grid,2018-01-15 20:40:27.627,GRID
+1668,humaniq,Humaniq,2018-01-15 20:40:27.627,HMQ
+1669,lykke,Lykke,2018-01-15 20:40:27.627,LKK
+1670,everex,Everex,2018-01-15 20:40:27.627,EVX
+1671,domraider,Domraider,2018-01-15 20:40:27.627,DRT
+1672,yoyow,Yoyow,2018-01-15 20:40:27.630,YOYOW
+1673,adtoken,Adtoken,2018-01-15 20:40:27.630,ADT
+1674,synereo,Synereo,2018-01-15 20:40:27.630,AMP
+1675,delphy,Delphy,2018-01-15 20:40:27.630,DPY
+1676,solarcoin,Solarcoin,2018-01-15 20:40:27.630,SLR
+1677,pepe-cash,Pepe Cash,2018-01-15 20:40:27.630,PEPECASH
+1678,eccoin,Eccoin,2018-01-15 20:40:27.630,ECC
+1679,flash,Flash,2018-01-15 20:40:27.630,FLASH
+1680,elastic,Elastic,2018-01-15 20:40:27.630,XEL
+1681,mothership,Mothership,2018-01-15 20:40:27.630,MSP
+1682,mercury,Mercury,2018-01-15 20:40:27.630,MER
+1683,diamond,Diamond,2018-01-15 20:40:27.630,DMD
+1684,datum,Datum,2018-01-15 20:40:27.630,DAT
+1685,potcoin,Potcoin,2018-01-15 20:40:27.630,POT
+1686,pascal-coin,Pascal Coin,2018-01-15 20:40:27.633,PASC
+1687,paypex,Paypex,2018-01-15 20:40:27.633,PAYX
+1688,crown,Crown,2018-01-15 20:40:27.633,CRW
+1689,zeusshield,Zeusshield,2018-01-15 20:40:27.633,ZSC
+1690,bitcny,Bitcny,2018-01-15 20:40:27.633,BITCNY
+1691,worldcore,Worldcore,2018-01-15 20:40:27.633,WRC
+1692,sibcoin,Sibcoin,2018-01-15 20:40:27.633,SIB
+1693,blackcoin,Blackcoin,2018-01-15 20:40:27.633,BLK
+1694,deeponion,Deeponion,2018-01-15 20:40:27.633,ONION
+1695,dimecoin,Dimecoin,2018-01-15 20:40:27.633,DIME
+1696,whitecoin,Whitecoin,2018-01-15 20:40:27.637,XWC
+1697,blocktix,Blocktix,2018-01-15 20:40:27.637,TIX
+1698,nimiq,Nimiq,2018-01-15 20:40:27.637,NET
+1699,nolimitcoin,Nolimitcoin,2018-01-15 20:40:27.637,NLC2
+1700,ion,Ion,2018-01-15 20:40:27.637,ION
+1701,faircoin,Faircoin,2018-01-15 20:40:27.637,FAIR
+1702,encrypgen,Encrypgen,2018-01-15 20:40:27.637,DNA
+1703,phore,Phore,2018-01-15 20:40:27.637,PHR
+1704,moeda-loyalty-points,Moeda Loyalty Points,2018-01-15 20:40:27.637,MDA
+1705,gridcoin,Gridcoin,2018-01-15 20:40:27.637,GRC
+1706,expanse,Expanse,2018-01-15 20:40:27.640,EXP
+1707,dubaicoin-dbix,Dubaicoin Dbix,2018-01-15 20:40:27.640,DBIX
+1708,snovio,Snovio,2018-01-15 20:40:27.640,SNOV
+1709,vericoin,Vericoin,2018-01-15 20:40:27.640,VRC
+1710,bodhi,Bodhi,2018-01-15 20:40:27.640,BOT
+1711,newyorkcoin,Newyorkcoin,2018-01-15 20:40:27.640,NYC
+1712,golos,Golos,2018-01-15 20:40:27.640,GOLOS
+1713,ormeus-coin,Ormeus Coin,2018-01-15 20:40:27.640,ORME
+1714,suncontract,Suncontract,2018-01-15 20:40:27.640,SNC
+1715,dovu,Dovu,2018-01-15 20:40:27.640,DOVU
+1716,clearpoll,Clearpoll,2018-01-15 20:40:27.640,POLL
+1717,numeraire,Numeraire,2018-01-15 20:40:27.640,NMR
+1718,airtoken,Airtoken,2018-01-15 20:40:27.640,AIR
+1719,peerplays-ppy,Peerplays Ppy,2018-01-15 20:40:27.643,PPY
+1720,neumark,Neumark,2018-01-15 20:40:27.643,NEU
+1721,divi,Divi,2018-01-15 20:40:27.643,DIVX
+1722,pandacoin-pnd,Pandacoin Pnd,2018-01-15 20:40:27.643,PND
+1723,bean-cash,Bean Cash,2018-01-15 20:40:27.643,BITB
+1724,nushares,Nushares,2018-01-15 20:40:27.643,NSR
+1725,propy,Propy,2018-01-15 20:40:27.643,PRO
+1726,myriad,Myriad,2018-01-15 20:40:27.643,XMY
+1727,rivetz,Rivetz,2018-01-15 20:40:27.643,RVT
+1728,stox,Stox,2018-01-15 20:40:27.643,STX
+1729,maecenas,Maecenas,2018-01-15 20:40:27.643,ART
+1730,okcash,Okcash,2018-01-15 20:40:27.647,OK
+1731,neoscoin,Neoscoin,2018-01-15 20:40:27.647,NEOS
+1732,radium,Radium,2018-01-15 20:40:27.647,RADS
+1733,blockmason,Blockmason,2018-01-15 20:40:27.647,BCPT
+1734,rialto,Rialto,2018-01-15 20:40:27.647,XRL
+1735,monetaryunit,Monetaryunit,2018-01-15 20:40:27.647,MUE
+1736,omni,Omni,2018-01-15 20:40:27.647,OMNI
+1737,nexium,Nexium,2018-01-15 20:40:27.647,NXC
+1738,bounty0x,Bounty0x,2018-01-15 20:40:27.647,BNTY
+1739,asiacoin,Asiacoin,2018-01-15 20:40:27.647,AC
+1740,open-trading-network,Open Trading Network,2018-01-15 20:40:27.650,OTN
+1741,credo,Credo,2018-01-15 20:40:27.650,CREDO
+1742,ethereum-blue,Ethereum Blue,2018-01-15 20:40:27.650,BLUE
+1743,alqo,Alqo,2018-01-15 20:40:27.650,ALQO
+1744,target-coin,Target Coin,2018-01-15 20:40:27.650,TGT
+1745,rubycoin,Rubycoin,2018-01-15 20:40:27.650,RBY
+1746,atbcoin,Atbcoin,2018-01-15 20:40:27.650,ATB
+1747,hedge,Hedge,2018-01-15 20:40:27.650,HDG
+1748,patientory,Patientory,2018-01-15 20:40:27.650,PTOY
+1749,investfeed,Investfeed,2018-01-15 20:40:27.650,IFT
+1750,bismuth,Bismuth,2018-01-15 20:40:27.650,BIS
+1751,databits,Databits,2018-01-15 20:40:27.650,DTB
+1752,alis,Alis,2018-01-15 20:40:27.650,ALIS
+1753,oax,Oax,2018-01-15 20:40:27.650,OAX
+1754,xenon,Xenon,2018-01-15 20:40:27.650,XNN
+1755,aeron,Aeron,2018-01-15 20:40:27.653,ARN
+1756,bcap,Bcap,2018-01-15 20:40:27.653,BCAP
+1757,colossuscoinxt,Colossuscoinxt,2018-01-15 20:40:27.653,COLX
+1758,steem-dollars,Steem Dollars,2018-01-15 20:40:27.653,SBD
+1759,kickico,Kickico,2018-01-15 20:40:27.653,KICK
+1760,change,Change,2018-01-15 20:40:27.653,CAG
+1761,verify,Verify,2018-01-15 20:40:27.653,CRED
+1762,life,Life,2018-01-15 20:40:27.653,LIFE
+1763,posw-coin,Posw Coin,2018-01-15 20:40:27.653,POSW
+1764,mybit-token,Mybit Token,2018-01-15 20:40:27.653,MYB
+1765,paragon,Paragon,2018-01-15 20:40:27.657,PRG
+1766,florincoin,Florincoin,2018-01-15 20:40:27.657,FLO
+1767,playkey,Playkey,2018-01-15 20:40:27.657,PKT
+1768,blackmoon-crypto,Blackmoon Crypto,2018-01-15 20:40:27.657,BMC
+1769,incent,Incent,2018-01-15 20:40:27.657,INCNT
+1770,lomocoin,Lomocoin,2018-01-15 20:40:27.657,LMC
+1771,energycoin,Energycoin,2018-01-15 20:40:27.657,ENRG
+1772,swarm-city,Swarm City,2018-01-15 20:40:27.657,SWT
+1773,elixir,Elixir,2018-01-15 20:40:27.657,ELIX
+1774,bitcrystals,Bitcrystals,2018-01-15 20:40:27.657,BCY
+1775,linda,Linda,2018-01-15 20:40:27.660,LINDA
+1776,decent-bet,Decent Bet,2018-01-15 20:40:27.660,DBET
+1777,blockcat,Blockcat,2018-01-15 20:40:27.660,CAT
+1778,fedoracoin,Fedoracoin,2018-01-15 20:40:27.660,TIPS
+1779,foldingcoin,Foldingcoin,2018-01-15 20:40:27.660,FLDC
+1780,obsidian,Obsidian,2018-01-15 20:40:27.660,ODN
+1781,clams,Clams,2018-01-15 20:40:27.660,CLAM
+1782,circuits-of-value,Circuits Of Value,2018-01-15 20:40:27.660,COVAL
+1783,global-currency-reserve,Global Currency Reserve,2018-01-15 20:40:27.660,GCR
+1784,mintcoin,Mintcoin,2018-01-15 20:40:27.660,MINT
+1785,soarcoin,Soarcoin,2018-01-15 20:40:27.660,SOAR
+1786,luxcoin,Luxcoin,2018-01-15 20:40:27.660,LUX
+1787,musicoin,Musicoin,2018-01-15 20:40:27.660,MUSIC
+1788,heat-ledger,Heat Ledger,2018-01-15 20:40:27.663,HEAT
+1789,monacocoin,Monacocoin,2018-01-15 20:40:27.663,XMCC
+1790,ongsocial,Ongsocial,2018-01-15 20:40:27.663,ONG
+1791,internet-of-people,Internet Of People,2018-01-15 20:40:27.663,IOP
+1792,icos,Icos,2018-01-15 20:40:27.663,ICOS
+1793,gobyte,Gobyte,2018-01-15 20:40:27.663,GBX
+1794,flixxo,Flixxo,2018-01-15 20:40:27.663,FLIXX
+1795,oraclechain,Oraclechain,2018-01-15 20:40:27.663,OCT
+1796,mysterium,Mysterium,2018-01-15 20:40:27.663,MYST
+1797,artbyte,Artbyte,2018-01-15 20:40:27.663,ABY
+1798,waves-community-token,Waves Community Token,2018-01-15 20:40:27.663,WCT
+1799,gambit,Gambit,2018-01-15 20:40:27.667,GAM
+1800,xaurum,Xaurum,2018-01-15 20:40:27.667,XAUR
+1801,stealthcoin,Stealthcoin,2018-01-15 20:40:27.667,XST
+1802,pirl,Pirl,2018-01-15 20:40:27.667,PIRL
+1803,publica,Publica,2018-01-15 20:40:27.667,PBL
+1804,payfair,Payfair,2018-01-15 20:40:27.667,PFR
+1805,bulwark,Bulwark,2018-01-15 20:40:27.667,BWK
+1806,bitqy,Bitqy,2018-01-15 20:40:27.667,BQ
+1807,bitsend,Bitsend,2018-01-15 20:40:27.667,BSD
+1808,dao-casino,Dao Casino,2018-01-15 20:40:27.667,BET
+1809,neutron,Neutron,2018-01-15 20:40:27.670,NTRN
+1810,aventus,Aventus,2018-01-15 20:40:27.670,AVT
+1811,sequence,Sequence,2018-01-15 20:40:27.670,SEQ
+1812,autonio,Autonio,2018-01-15 20:40:27.670,NIO
+1813,leocoin,Leocoin,2018-01-15 20:40:27.670,LEO
+1814,bitusd,Bitusd,2018-01-15 20:40:27.670,BITUSD
+1815,chronobank,Chronobank,2018-01-15 20:40:27.670,TIME
+1816,mercury-protocol,Mercury Protocol,2018-01-15 20:40:27.670,GMT
+1817,polybius,Polybius,2018-01-15 20:40:27.670,PLBT
+1818,lockchain,Lockchain,2018-01-15 20:40:27.670,LOC
+1819,oxycoin,Oxycoin,2018-01-15 20:40:27.670,OXY
+1820,e-coin,E Coin,2018-01-15 20:40:27.670,ECN
+1821,quantum,Quantum,2018-01-15 20:40:27.670,QAU
+1822,primas,Primas,2018-01-15 20:40:27.673,PST
+1823,upfiring,Upfiring,2018-01-15 20:40:27.673,UFR
+1824,zoin,Zoin,2018-01-15 20:40:27.673,ZOI
+1825,espers,Espers,2018-01-15 20:40:27.673,ESP
+1826,solaris,Solaris,2018-01-15 20:40:27.673,XLR
+1827,boolberry,Boolberry,2018-01-15 20:40:27.673,BBR
+1828,unobtanium,Unobtanium,2018-01-15 20:40:27.673,UNO
+1829,qunqun,Qunqun,2018-01-15 20:40:27.673,QUN
+1830,atlant,Atlant,2018-01-15 20:40:27.673,ATL
+1831,vcash,Vcash,2018-01-15 20:40:27.677,XVC
+1832,social-send,Social Send,2018-01-15 20:40:27.677,SEND
+1833,primecoin,Primecoin,2018-01-15 20:40:27.677,XPM
+1834,atmos,Atmos,2018-01-15 20:40:27.677,ATMS
+1835,geocoin,Geocoin,2018-01-15 20:40:27.677,GEO
+1836,bitdice,Bitdice,2018-01-15 20:40:27.677,CSNO
+1837,audiocoin,Audiocoin,2018-01-15 20:40:27.677,ADC
+1838,earthcoin,Earthcoin,2018-01-15 20:40:27.677,EAC
+1839,russian-mining-coin,Russian Mining Coin,2018-01-15 20:40:27.677,RMC
+1840,obits,Obits,2018-01-15 20:40:27.677,OBITS
+1841,pinkcoin,Pinkcoin,2018-01-15 20:40:27.677,PINK
+1842,mywish,Mywish,2018-01-15 20:40:27.680,WISH
+1843,hush,Hush,2018-01-15 20:40:27.680,HUSH
+1844,bitdeal,Bitdeal,2018-01-15 20:40:27.680,BDL
+1845,ecobit,Ecobit,2018-01-15 20:40:27.680,ECOB
+1846,firstcoin,Firstcoin,2018-01-15 20:40:27.680,FRST
+1847,adshares,Adshares,2018-01-15 20:40:27.680,ADST
+1848,cvcoin,Cvcoin,2018-01-15 20:40:27.680,CVCOIN
+1849,sumokoin,Sumokoin,2018-01-15 20:40:27.680,SUMO
+1850,trezarcoin,Trezarcoin,2018-01-15 20:40:27.680,TZC
+1851,magnet,Magnet,2018-01-15 20:40:27.680,MAG
+1852,sportyfi,Sportyfi,2018-01-15 20:40:27.680,SPF
+1853,vsync-vsx,Vsync Vsx,2018-01-15 20:40:27.680,VSX
+1854,sphere,Sphere,2018-01-15 20:40:27.680,SPHR
+1855,bitmark,Bitmark,2018-01-15 20:40:27.683,BTM
+1856,pluton,Pluton,2018-01-15 20:40:27.683,PLU
+1857,opus,Opus,2018-01-15 20:40:27.683,OPT
+1858,etheroll,Etheroll,2018-01-15 20:40:27.683,DICE
+1859,spreadcoin,Spreadcoin,2018-01-15 20:40:27.683,SPR
+1860,curecoin,Curecoin,2018-01-15 20:40:27.683,CURE
+1861,lampix,Lampix,2018-01-15 20:40:27.683,PIX
+1862,bonpay,Bonpay,2018-01-15 20:40:27.683,BON
+1863,innova,Innova,2018-01-15 20:40:27.683,INN
+1864,prochain,Prochain,2018-01-15 20:40:27.683,PRO
+1865,qwark,Qwark,2018-01-15 20:40:27.683,QWARK
+1866,creditbit,Creditbit,2018-01-15 20:40:27.687,CRB
+1867,russiacoin,Russiacoin,2018-01-15 20:40:27.687,RC
+1868,riecoin,Riecoin,2018-01-15 20:40:27.687,RIC
+1869,exchange-union,Exchange Union,2018-01-15 20:40:27.687,XUC
+1870,real-estate-tokens,Real Estate Tokens,2018-01-15 20:40:27.687,REX
+1871,herocoin,Herocoin,2018-01-15 20:40:27.687,PLAY
+1872,bitzeny,Bitzeny,2018-01-15 20:40:27.687,ZNY
+1873,transfercoin,Transfercoin,2018-01-15 20:40:27.687,TX
+1874,crave,Crave,2018-01-15 20:40:27.687,CRAVE
+1875,belacoin,Belacoin,2018-01-15 20:40:27.687,BELA
+1876,hacken,Hacken,2018-01-15 20:40:27.687,HKN
+1877,hellogold,Hellogold,2018-01-15 20:40:27.690,HGT
+1878,cannabiscoin,Cannabiscoin,2018-01-15 20:40:27.690,CANN
+1879,sprouts,Sprouts,2018-01-15 20:40:27.690,SPRTS
+1880,dopecoin,Dopecoin,2018-01-15 20:40:27.690,DOPE
+1881,pesetacoin,Pesetacoin,2018-01-15 20:40:27.690,PTC
+1882,memetic,Memetic,2018-01-15 20:40:27.690,MEME
+1883,zero,Zero,2018-01-15 20:40:27.690,ZER
+1884,wild-crypto,Wild Crypto,2018-01-15 20:40:27.690,WILD
+1885,tao,Tao,2018-01-15 20:40:27.690,XTO
+1886,universal-currency,Universal Currency,2018-01-15 20:40:27.690,UNIT
+1887,ufo-coin,Ufo Coin,2018-01-15 20:40:27.693,UFO
+1888,flypme,Flypme,2018-01-15 20:40:27.693,FYP
+1889,intensecoin,Intensecoin,2018-01-15 20:40:27.693,ITNS
+1890,nvo,Nvo,2018-01-15 20:40:27.693,NVST
+1891,veriumreserve,Veriumreserve,2018-01-15 20:40:27.693,VRM
+1892,blockpool,Blockpool,2018-01-15 20:40:27.693,BPL
+1893,breakout,Breakout,2018-01-15 20:40:27.693,BRK
+1894,1337coin,1337coin,2018-01-15 20:40:27.693,1337
+1895,kilocoin,Kilocoin,2018-01-15 20:40:27.693,KLC
+1896,novacoin,Novacoin,2018-01-15 20:40:27.693,NVC
+1897,synergy,Synergy,2018-01-15 20:40:27.697,SNRG
+1898,bitcoin-plus,Bitcoin Plus,2018-01-15 20:40:27.697,XBC
+1899,syndicate,Syndicate,2018-01-15 20:40:27.697,SYNX
+1900,b2bx,B2bx,2018-01-15 20:40:27.697,B2B
+1901,the-champcoin,The Champcoin,2018-01-15 20:40:27.697,TCC
+1902,bitcloud,Bitcloud,2018-01-15 20:40:27.697,BTDX
+1903,blitzcash,Blitzcash,2018-01-15 20:40:27.697,BLITZ
+1904,royal-kingdom-coin,Royal Kingdom Coin,2018-01-15 20:40:27.697,RKC
+1905,korecoin,Korecoin,2018-01-15 20:40:27.697,KORE
+1906,goldcoin,Goldcoin,2018-01-15 20:40:27.700,GLD
+1907,bowhead,Bowhead,2018-01-15 20:40:27.700,AHT
+1908,auroracoin,Auroracoin,2018-01-15 20:40:27.700,AUR
+1909,dnotes,Dnotes,2018-01-15 20:40:27.700,NOTE
+1910,hyperstake,Hyperstake,2018-01-15 20:40:27.700,HYP
+1911,astro,Astro,2018-01-15 20:40:27.700,ASTRO
+1912,dotcoin,Dotcoin,2018-01-15 20:40:27.700,DOT
+1913,rupee,Rupee,2018-01-15 20:40:27.700,RUP
+1914,startcoin,Startcoin,2018-01-15 20:40:27.700,START
+1915,buzzcoin,Buzzcoin,2018-01-15 20:40:27.700,BUZZ
+1916,vslice,Vslice,2018-01-15 20:40:27.700,VSL
+1917,dcorp,Dcorp,2018-01-15 20:40:27.700,DRP
+1918,chaincoin,Chaincoin,2018-01-15 20:40:27.700,CHC
+1919,breakout-stake,Breakout Stake,2018-01-15 20:40:27.700,BRX
+1920,privatix,Privatix,2018-01-15 20:40:27.703,PRIX
+1921,digipulse,Digipulse,2018-01-15 20:40:27.703,DGPT
+1922,crowdcoin,Crowdcoin,2018-01-15 20:40:27.703,CRC
+1923,masternodecoin,Masternodecoin,2018-01-15 20:40:27.703,MTNC
+1924,prospectors-gold,Prospectors Gold,2018-01-15 20:40:27.703,PGL
+1925,bitcoinz,Bitcoinz,2018-01-15 20:40:27.703,BTCZ
+1926,carboncoin,Carboncoin,2018-01-15 20:40:27.703,CARBON
+1927,toacoin,Toacoin,2018-01-15 20:40:27.703,TOA
+1928,sharechain,Sharechain,2018-01-15 20:40:27.703,SSS
+1929,xgox,Xgox,2018-01-15 20:40:27.703,XGOX
+1930,internxt,Internxt,2018-01-15 20:40:27.703,INXT
+1931,creativecoin,Creativecoin,2018-01-15 20:40:27.707,CREA
+1932,social,Social,2018-01-15 20:40:27.707,SCL
+1933,indorse-token,Indorse Token,2018-01-15 20:40:27.707,IND
+1934,nubits,Nubits,2018-01-15 20:40:27.707,USNBT
+1935,project-decorum,Project Decorum,2018-01-15 20:40:27.707,PDC
+1936,2give,2give,2018-01-15 20:40:27.707,2GIVE
+1937,eboostcoin,Eboostcoin,2018-01-15 20:40:27.707,EBST
+1938,exclusivecoin,Exclusivecoin,2018-01-15 20:40:27.710,EXCL
+1939,trueflip,Trueflip,2018-01-15 20:40:27.710,TFL
+1940,vivo,Vivo,2018-01-15 20:40:27.710,VIVO
+1941,hubii-network,Hubii Network,2018-01-15 20:40:27.710,HBT
+1942,vtorrent,Vtorrent,2018-01-15 20:40:27.710,VTR
+1943,e-dinar-coin,E Dinar Coin,2018-01-15 20:40:27.710,EDR
+1944,pure,Pure,2018-01-15 20:40:27.710,PURE
+1945,adelphoi,Adelphoi,2018-01-15 20:40:27.710,ADL
+1946,encryptotel,Encryptotel,2018-01-15 20:40:27.710,ETT
+1947,altcoin-alt,Altcoin Alt,2018-01-15 20:40:27.710,ALT
+1948,tokes,Tokes,2018-01-15 20:40:27.710,TKS
+1949,prizm,Prizm,2018-01-15 20:40:27.710,PZM
+1950,trustplus,Trustplus,2018-01-15 20:40:27.710,TRUST
+1951,purevidz,Purevidz,2018-01-15 20:40:27.710,VIDZ
+1952,procurrency,Procurrency,2018-01-15 20:40:27.713,PROC
+1953,hollywoodcoin,Hollywoodcoin,2018-01-15 20:40:27.713,HWC
+1954,embers,Embers,2018-01-15 20:40:27.713,MBRS
+1955,ixcoin,Ixcoin,2018-01-15 20:40:27.713,IXC
+1956,ellaism,Ellaism,2018-01-15 20:40:27.713,ELLA
+1957,zephyr,Zephyr,2018-01-15 20:40:27.713,ZEPH
+1958,farad,Farad,2018-01-15 20:40:27.713,FRD
+1959,europecoin,Europecoin,2018-01-15 20:40:27.713,ERC
+1960,real,Real,2018-01-15 20:40:27.713,REAL
+1961,wandx,Wandx,2018-01-15 20:40:27.713,WAND
+1962,ebtcnew,Ebtcnew,2018-01-15 20:40:27.713,EBTC
+1963,eroscoin,Eroscoin,2018-01-15 20:40:27.717,ERO
+1964,luckchain,Luckchain,2018-01-15 20:40:27.717,BASH
+1965,dynamic,Dynamic,2018-01-15 20:40:27.717,DYN
+1966,sexcoin,Sexcoin,2018-01-15 20:40:27.717,SXC
+1967,commodity-ad-network,Commodity Ad Network,2018-01-15 20:40:27.717,CDX
+1968,equitrader,Equitrader,2018-01-15 20:40:27.717,EQT
+1969,quark,Quark,2018-01-15 20:40:27.717,QRK
+1970,bitboost,Bitboost,2018-01-15 20:40:27.717,BBT
+1971,magi,Magi,2018-01-15 20:40:27.717,XMG
+1972,footy-cash,Footy Cash,2018-01-15 20:40:27.717,XFT
+1973,force,Force,2018-01-15 20:40:27.720,FOR
+1974,dai,Dai,2018-01-15 20:40:27.720,DAI
+1975,student-coin,Student Coin,2018-01-15 20:40:27.720,STU
+1976,noblecoin,Noblecoin,2018-01-15 20:40:27.720,NOBL
+1977,regalcoin,Regalcoin,2018-01-15 20:40:27.720,REC
+1978,terracoin,Terracoin,2018-01-15 20:40:27.720,TRC
+1979,evergreencoin,Evergreencoin,2018-01-15 20:40:27.720,EGC
+1980,eltcoin,Eltcoin,2018-01-15 20:40:27.720,ELTCOIN
+1981,zrcoin,Zrcoin,2018-01-15 20:40:27.720,ZRC
+1982,linx,Linx,2018-01-15 20:40:27.720,LINX
+1983,huntercoin,Huntercoin,2018-01-15 20:40:27.720,HUC
+1984,anoncoin,Anoncoin,2018-01-15 20:40:27.720,ANC
+1985,parkbyte,Parkbyte,2018-01-15 20:40:27.720,PKB
+1986,karbowanec,Karbowanec,2018-01-15 20:40:27.720,KRB
+1987,putincoin,Putincoin,2018-01-15 20:40:27.723,PUT
+1988,worldcoin,Worldcoin,2018-01-15 20:40:27.723,WDC
+1989,megacoin,Megacoin,2018-01-15 20:40:27.723,MEC
+1990,apx,Apx,2018-01-15 20:40:27.723,APX
+1991,cartaxi-token,Cartaxi Token,2018-01-15 20:40:27.723,CTX
+1992,smartbillions,Smartbillions,2018-01-15 20:40:27.723,SMART
+1993,ethereumcash,Ethereumcash,2018-01-15 20:40:27.723,ECASH
+1994,qvolta,Qvolta,2018-01-15 20:40:27.723,QVT
+1995,flik,Flik,2018-01-15 20:40:27.723,FLIK
+1996,goodomy,Goodomy,2018-01-15 20:40:27.723,GOOD
+1997,cryptoping,Cryptoping,2018-01-15 20:40:27.727,PING
+1998,halcyon,Halcyon,2018-01-15 20:40:27.727,HAL
+1999,neverdie,Neverdie,2018-01-15 20:40:27.727,NDC
+2000,bluecoin,Bluecoin,2018-01-15 20:40:27.727,BLU
+2001,gimli,Gimli,2018-01-15 20:40:27.727,GIM
+2002,ergo,Ergo,2018-01-15 20:40:27.727,EFYT
+2003,mcap,Mcap,2018-01-15 20:40:27.727,MCAP
+2004,bitcoin-scrypt,Bitcoin Scrypt,2018-01-15 20:40:27.727,BTCS
+2005,cryptogenic-bullion,Cryptogenic Bullion,2018-01-15 20:40:27.727,CBX
+2006,straks,Straks,2018-01-15 20:40:27.727,STAK
+2007,arcticcoin,Arcticcoin,2018-01-15 20:40:27.730,ARC
+2008,chips,Chips,2018-01-15 20:40:27.730,CHIPS
+2009,e-gulden,E Gulden,2018-01-15 20:40:27.730,EFL
+2010,dinastycoin,Dinastycoin,2018-01-15 20:40:27.730,DCY
+2011,popularcoin,Popularcoin,2018-01-15 20:40:27.730,POP
+2012,interstellar-holdings,Interstellar Holdings,2018-01-15 20:40:27.730,HOLD
+2013,condensate,Condensate,2018-01-15 20:40:27.730,RAIN
+2014,martexcoin,Martexcoin,2018-01-15 20:40:27.730,MXT
+2015,primalbase,Primalbase,2018-01-15 20:40:27.730,PBT
+2016,digitalprice,Digitalprice,2018-01-15 20:40:27.730,DP
+2017,renos,Renos,2018-01-15 20:40:27.730,RNS
+2018,abjcoin,Abjcoin,2018-01-15 20:40:27.730,ABJ
+2019,yocoin,Yocoin,2018-01-15 20:40:27.730,YOC
+2020,denarius-dnr,Denarius Dnr,2018-01-15 20:40:27.730,DNR
+2021,litedoge,Litedoge,2018-01-15 20:40:27.733,LDOGE
+2022,unify,Unify,2018-01-15 20:40:27.733,UNIFY
+2023,hawala-today,Hawala Today,2018-01-15 20:40:27.733,HAT
+2024,campuscoin,Campuscoin,2018-01-15 20:40:27.733,CMPCO
+2025,fluttercoin,Fluttercoin,2018-01-15 20:40:27.733,FLT
+2026,darcrus,Darcrus,2018-01-15 20:40:27.733,DAR
+2027,leviarcoin,Leviarcoin,2018-01-15 20:40:27.733,XLC
+2028,emphy,Emphy,2018-01-15 20:40:27.733,EPY
+2029,thegcccoin,Thegcccoin,2018-01-15 20:40:27.733,GCC
+2030,erc20,Erc20,2018-01-15 20:40:27.733,ERC20
+2031,insanecoin-insn,Insanecoin Insn,2018-01-15 20:40:27.737,INSN
+2032,centurion,Centurion,2018-01-15 20:40:27.737,CNT
+2033,moin,Moin,2018-01-15 20:40:27.737,MOIN
+2034,cryptonite,Cryptonite,2018-01-15 20:40:27.737,XCN
+2035,canada-ecoin,Canada Ecoin,2018-01-15 20:40:27.737,CDN
+2036,intelligent-trading-tech,Intelligent Trading Tech,2018-01-15 20:40:27.737,ITT
+2037,starta,Starta,2018-01-15 20:40:27.737,STA
+2038,monkey-project,Monkey Project,2018-01-15 20:40:27.737,MONK
+2039,greencoin,Greencoin,2018-01-15 20:40:27.737,GRE
+2040,electra,Electra,2018-01-15 20:40:27.737,ECA
+2041,ethereum-gold,Ethereum Gold,2018-01-15 20:40:27.737,ETG
+2042,zeitcoin,Zeitcoin,2018-01-15 20:40:27.740,ZEIT
+2043,copico,Copico,2018-01-15 20:40:27.740,XCPO
+2044,adzcoin,Adzcoin,2018-01-15 20:40:27.740,ADZ
+2045,ico-openledger,Ico Openledger,2018-01-15 20:40:27.740,ICOO
+2046,legends-room,Legends Room,2018-01-15 20:40:27.740,LGD
+2047,version,Version,2018-01-15 20:40:27.740,V
+2048,ethbits,Ethbits,2018-01-15 20:40:27.740,ETBS
+2049,bitradio,Bitradio,2018-01-15 20:40:27.740,BRO
+2050,fujicoin,Fujicoin,2018-01-15 20:40:27.740,FJC
+2051,bata,Bata,2018-01-15 20:40:27.740,BTA
+2052,elementrem,Elementrem,2018-01-15 20:40:27.740,ELE
+2053,cream,Cream,2018-01-15 20:40:27.740,CRM
+2054,unitus,Unitus,2018-01-15 20:40:27.743,UIS
+2055,netcoin,Netcoin,2018-01-15 20:40:27.743,NET
+2056,altcommunity-coin,Altcommunity Coin,2018-01-15 20:40:27.743,ALTCOM
+2057,scorecoin,Scorecoin,2018-01-15 20:40:27.743,SCORE
+2058,jetcoin,Jetcoin,2018-01-15 20:40:27.743,JET
+2059,unbreakablecoin,Unbreakablecoin,2018-01-15 20:40:27.743,UNB
+2060,influxcoin,Influxcoin,2018-01-15 20:40:27.743,INFX
+2061,bytecent,Bytecent,2018-01-15 20:40:27.743,BYC
+2062,kekcoin,Kekcoin,2018-01-15 20:40:27.743,KEK
+2063,inflationcoin,Inflationcoin,2018-01-15 20:40:27.743,IFLT
+2064,smart-investment-fund-token,Smart Investment Fund Token,2018-01-15 20:40:27.743,SIFT
+2065,cryptoforecast,Cryptoforecast,2018-01-15 20:40:27.747,CFT
+2066,oceanlab,Oceanlab,2018-01-15 20:40:27.747,OCL
+2067,fundyourselfnow,Fundyourselfnow,2018-01-15 20:40:27.747,FYN
+2068,steneum-coin,Steneum Coin,2018-01-15 20:40:27.747,STN
+2069,piplcoin,Piplcoin,2018-01-15 20:40:27.747,PIPL
+2070,fucktoken,Fucktoken,2018-01-15 20:40:27.747,FUCK
+2071,machinecoin,Machinecoin,2018-01-15 20:40:27.747,MAC
+2072,aurumcoin,Aurumcoin,2018-01-15 20:40:27.747,AU
+2073,kolion,Kolion,2018-01-15 20:40:27.747,KLN
+2074,mazacoin,Mazacoin,2018-01-15 20:40:27.747,MZC
+2075,miners-reward-token,Miners Reward Token,2018-01-15 20:40:27.750,MRT
+2076,etheriya,Etheriya,2018-01-15 20:40:27.750,RIYA
+2077,incakoin,Incakoin,2018-01-15 20:40:27.750,NKA
+2078,i0coin,I0coin,2018-01-15 20:40:27.750,I0C
+2079,aricoin,Aricoin,2018-01-15 20:40:27.750,ARI
+2080,capricoin,Capricoin,2018-01-15 20:40:27.750,CPC
+2081,sagacoin,Sagacoin,2018-01-15 20:40:27.750,SAGA
+2082,cryptocarbon,Cryptocarbon,2018-01-15 20:40:27.750,CCRB
+2083,smartcoin,Smartcoin,2018-01-15 20:40:27.750,SMC
+2084,teslacoin,Teslacoin,2018-01-15 20:40:27.750,TES
+2085,orbitcoin,Orbitcoin,2018-01-15 20:40:27.750,ORB
+2086,trollcoin,Trollcoin,2018-01-15 20:40:27.750,TROLL
+2087,bigup,Bigup,2018-01-15 20:40:27.750,BIGUP
+2088,minereum,Minereum,2018-01-15 20:40:27.750,MNE
+2089,digitalcoin,Digitalcoin,2018-01-15 20:40:27.753,DGC
+2090,desire,Desire,2018-01-15 20:40:27.753,DSR
+2091,kurrent,Kurrent,2018-01-15 20:40:27.753,KURT
+2092,atomic-coin,Atomic Coin,2018-01-15 20:40:27.753,ATOM
+2093,link-platform,Link Platform,2018-01-15 20:40:27.753,LNK
+2094,fastcoin,Fastcoin,2018-01-15 20:40:27.753,FST
+2095,iticoin,Iticoin,2018-01-15 20:40:27.753,ITI
+2096,monster-byte,Monster Byte,2018-01-15 20:40:27.753,MBI
+2097,tracto,Tracto,2018-01-15 20:40:27.753,TRCT
+2098,accelerator-network,Accelerator Network,2018-01-15 20:40:27.753,ACC
+2099,hitcoin,Hitcoin,2018-01-15 20:40:27.753,HTC
+2100,petrodollar,Petrodollar,2018-01-15 20:40:27.757,XPD
+2101,ethbet,Ethbet,2018-01-15 20:40:27.757,EBET
+2102,bitcurrency,Bitcurrency,2018-01-15 20:40:27.757,BTCR
+2103,eternity,Eternity,2018-01-15 20:40:27.757,ENT
+2104,macron,Macron,2018-01-15 20:40:27.757,MCRN
+2105,trackr,Trackr,2018-01-15 20:40:27.757,TKR
+2106,growers-international,Growers International,2018-01-15 20:40:27.757,GRWI
+2107,fantomcoin,Fantomcoin,2018-01-15 20:40:27.757,FCN
+2108,fuelcoin,Fuelcoin,2018-01-15 20:40:27.760,FC2
+2109,mojocoin,Mojocoin,2018-01-15 20:40:27.760,MOJO
+2110,zetacoin,Zetacoin,2018-01-15 20:40:27.760,ZET
+2111,authorship,Authorship,2018-01-15 20:40:27.760,ATS
+2112,ethereum-movie-venture,Ethereum Movie Venture,2018-01-15 20:40:27.760,EMV
+2113,shadowcash,Shadowcash,2018-01-15 20:40:27.760,SDC
+2114,draftcoin,Draftcoin,2018-01-15 20:40:27.760,DFT
+2115,zennies,Zennies,2018-01-15 20:40:27.760,ZENI
+2116,visio,Visio,2018-01-15 20:40:27.760,VISIO
+2117,netko,Netko,2018-01-15 20:40:27.760,NETKO
+2118,coinonatx,Coinonatx,2018-01-15 20:40:27.760,XCXT
+2119,starcredits,Starcredits,2018-01-15 20:40:27.760,STRC
+2120,nekonium,Nekonium,2018-01-15 20:40:27.760,NUKO
+2121,deutsche-emark,Deutsche Emark,2018-01-15 20:40:27.760,DEM
+2122,elcoin-el,Elcoin El,2018-01-15 20:40:27.760,EL
+2123,dfscoin,Dfscoin,2018-01-15 20:40:27.763,DFS
+2124,biblepay,Biblepay,2018-01-15 20:40:27.763,BBP
+2125,daxxcoin,Daxxcoin,2018-01-15 20:40:27.763,DAXX
+2126,bitcoin-red,Bitcoin Red,2018-01-15 20:40:27.763,BTCRED
+2127,iethereum,Iethereum,2018-01-15 20:40:27.763,IETH
+2128,rasputin-online-coin,Rasputin Online Coin,2018-01-15 20:40:27.763,ROC
+2129,tittiecoin,Tittiecoin,2018-01-15 20:40:27.763,TTC
+2130,metalcoin,Metalcoin,2018-01-15 20:40:27.763,METAL
+2131,billionaire-token,Billionaire Token,2018-01-15 20:40:27.763,XBL
+2132,confido,Confido,2018-01-15 20:40:27.767,CFD
+2133,skincoin,Skincoin,2018-01-15 20:40:27.767,SKIN
+2134,triangles,Triangles,2018-01-15 20:40:27.767,TRI
+2135,ultracoin,Ultracoin,2018-01-15 20:40:27.767,UTC
+2136,opal,Opal,2018-01-15 20:40:27.767,OPAL
+2137,happycoin,Happycoin,2018-01-15 20:40:27.767,HPC
+2138,bitpark-coin,Bitpark Coin,2018-01-15 20:40:27.767,BPC
+2139,smileycoin,Smileycoin,2018-01-15 20:40:27.767,SMLY
+2140,hodlcoin,Hodlcoin,2018-01-15 20:40:27.767,HODL
+2141,bitbar,Bitbar,2018-01-15 20:40:27.767,BTB
+2142,amsterdamcoin,Amsterdamcoin,2018-01-15 20:40:27.770,AMS
+2143,zcash-gold,Zcash Gold,2018-01-15 20:40:27.770,ZCG
+2144,qubitcoin,Qubitcoin,2018-01-15 20:40:27.770,Q2C
+2145,piggycoin,Piggycoin,2018-01-15 20:40:27.770,PIGGY
+2146,veltor,Veltor,2018-01-15 20:40:27.770,VLT
+2147,42-coin,42 Coin,2018-01-15 20:40:27.770,42
+2148,nyancoin,Nyancoin,2018-01-15 20:40:27.770,NYAN
+2149,guncoin,Guncoin,2018-01-15 20:40:27.770,GUN
+2150,gaia,Gaia,2018-01-15 20:40:27.770,GAIA
+2151,maxcoin,Maxcoin,2018-01-15 20:40:27.770,MAX
+2152,hobonickels,Hobonickels,2018-01-15 20:40:27.770,HBN
+2153,postoken,Postoken,2018-01-15 20:40:27.770,POS
+2154,dollarcoin,Dollarcoin,2018-01-15 20:40:27.773,DLC
+2155,starcash-network,Starcash Network,2018-01-15 20:40:27.773,STARS
+2156,lanacoin,Lanacoin,2018-01-15 20:40:27.773,LANA
+2157,bitstar,Bitstar,2018-01-15 20:40:27.773,BITS
+2158,rimbit,Rimbit,2018-01-15 20:40:27.773,RBT
+2159,trumpcoin,Trumpcoin,2018-01-15 20:40:27.773,TRUMP
+2160,wavesgo,Wavesgo,2018-01-15 20:40:27.773,WGO
+2161,britcoin,Britcoin,2018-01-15 20:40:27.773,BRIT
+2162,ccore,Ccore,2018-01-15 20:40:27.777,CCO
+2163,adcoin,Adcoin,2018-01-15 20:40:27.777,ACC
+2164,supercoin,Supercoin,2018-01-15 20:40:27.777,SUPER
+2165,kobocoin,Kobocoin,2018-01-15 20:40:27.777,KOBO
+2166,titcoin,Titcoin,2018-01-15 20:40:27.777,TIT
+2167,ammo-rewards,Ammo Rewards,2018-01-15 20:40:27.777,AMMO
+2168,octanox,Octanox,2018-01-15 20:40:27.777,OTX
+2169,ethereum-dark,Ethereum Dark,2018-01-15 20:40:27.777,ETHD
+2170,cryptojacks,Cryptojacks,2018-01-15 20:40:27.777,CJ
+2171,joulecoin,Joulecoin,2018-01-15 20:40:27.777,XJO
+2172,crystal-clear,Crystal Clear,2018-01-15 20:40:27.780,CCT
+2173,truckcoin,Truckcoin,2018-01-15 20:40:27.780,TRK
+2174,goldblocks,Goldblocks,2018-01-15 20:40:27.780,GB
+2175,pascal-lite,Pascal Lite,2018-01-15 20:40:27.780,PASL
+2176,advanced-internet-blocks,Advanced Internet Blocks,2018-01-15 20:40:27.780,AIB
+2177,dix-asset,Dix Asset,2018-01-15 20:40:27.780,DIX
+2178,808coin,808coin,2018-01-15 20:40:27.780,808
+2179,xios,Xios,2018-01-15 20:40:27.780,XIOS
+2180,postcoin,Postcoin,2018-01-15 20:40:27.780,POST
+2181,cannation,Cannation,2018-01-15 20:40:27.780,CNNC
+2182,funcoin,Funcoin,2018-01-15 20:40:27.780,FUNC
+2183,coin2-1,Coin2 1,2018-01-15 20:40:27.780,C2
+2184,droxne,Droxne,2018-01-15 20:40:27.780,DRXNE
+2185,whalecoin,Whalecoin,2018-01-15 20:40:27.780,WHL
+2186,argentum,Argentum,2018-01-15 20:40:27.780,ARG
+2187,redcoin,Redcoin,2018-01-15 20:40:27.783,RED
+2188,platinumbar,Platinumbar,2018-01-15 20:40:27.783,XPTX
+2189,blakestar,Blakestar,2018-01-15 20:40:27.783,BLAS
+2190,blockpay,Blockpay,2018-01-15 20:40:27.783,BLOCKPAY
+2191,signatum,Signatum,2018-01-15 20:40:27.783,SIGT
+2192,sugar-exchange,Sugar Exchange,2018-01-15 20:40:27.783,SGR
+2193,bitcoinfast,Bitcoinfast,2018-01-15 20:40:27.783,BCF
+2194,giga-watt-token,Giga Watt Token,2018-01-15 20:40:27.783,WTT
+2195,dashcoin,Dashcoin,2018-01-15 20:40:27.783,DSH
+2196,8bit,8bit,2018-01-15 20:40:27.783,8BIT
+2197,pakcoin,Pakcoin,2018-01-15 20:40:27.787,PAK
+2198,bit20,Bit20,2018-01-15 20:40:27.787,BTWTY
+2199,goldreserve,Goldreserve,2018-01-15 20:40:27.787,XGR
+2200,phoenixcoin,Phoenixcoin,2018-01-15 20:40:27.787,PXC
+2201,independent-money-system,Independent Money System,2018-01-15 20:40:27.787,IMS
+2202,hicoin,Hicoin,2018-01-15 20:40:27.787,XHI
+2203,digicube,Digicube,2018-01-15 20:40:27.787,CUBE
+2204,swagbucks,Swagbucks,2018-01-15 20:40:27.787,BUCKS
+2205,colossuscoin-v2,Colossuscoin V2,2018-01-15 20:40:27.787,CV2
+2206,mineum,Mineum,2018-01-15 20:40:27.787,MNM
+2207,grimcoin,Grimcoin,2018-01-15 20:40:27.790,GRIM
+2208,unity-ingot,Unity Ingot,2018-01-15 20:40:27.790,UNY
+2209,securecoin,Securecoin,2018-01-15 20:40:27.790,SRC
+2210,kushcoin,Kushcoin,2018-01-15 20:40:27.790,KUSH
+2211,paycoin2,Paycoin2,2018-01-15 20:40:27.790,XPY
+2212,onix,Onix,2018-01-15 20:40:27.790,ONX
+2213,c-bit,C Bit,2018-01-15 20:40:27.790,XCT
+2214,paycon,Paycon,2018-01-15 20:40:27.790,CON
+2215,chronos,Chronos,2018-01-15 20:40:27.790,CRX
+2216,pioneer-coin,Pioneer Coin,2018-01-15 20:40:27.790,PCOIN
+2217,universe,Universe,2018-01-15 20:40:27.790,UNI
+2218,octocoin,Octocoin,2018-01-15 20:40:27.790,888
+2219,unicoin,Unicoin,2018-01-15 20:40:27.790,UNIC
+2220,ratecoin,Ratecoin,2018-01-15 20:40:27.793,XRA
+2221,chesscoin,Chesscoin,2018-01-15 20:40:27.793,CHESS
+2222,evil-coin,Evil Coin,2018-01-15 20:40:27.793,EVIL
+2223,coin,Coin,2018-01-15 20:40:27.793,CNO
+2224,prototanium,Prototanium,2018-01-15 20:40:27.793,PR
+2225,litecoin-plus,Litecoin Plus,2018-01-15 20:40:27.793,LCP
+2226,tigercoin,Tigercoin,2018-01-15 20:40:27.793,TGC
+2227,sterlingcoin,Sterlingcoin,2018-01-15 20:40:27.793,SLG
+2228,tattoocoin,Tattoocoin,2018-01-15 20:40:27.793,TSE
+2229,icoin,Icoin,2018-01-15 20:40:27.793,ICN
+2230,helleniccoin,Helleniccoin,2018-01-15 20:40:27.797,HNC
+2231,votecoin,Votecoin,2018-01-15 20:40:27.797,VOT
+2232,chancoin,Chancoin,2018-01-15 20:40:27.797,CHAN
+2233,eot-token,Eot Token,2018-01-15 20:40:27.797,EOT
+2234,brat,Brat,2018-01-15 20:40:27.797,BRAT
+2235,gapcoin,Gapcoin,2018-01-15 20:40:27.797,GAP
+2236,cannacoin,Cannacoin,2018-01-15 20:40:27.797,CCN
+2237,yenten,Yenten,2018-01-15 20:40:27.797,YTN
+2238,litebitcoin,Litebitcoin,2018-01-15 20:40:27.797,LBTC
+2239,revolvercoin,Revolvercoin,2018-01-15 20:40:27.797,XRE
+2240,bitcoal,Bitcoal,2018-01-15 20:40:27.800,COAL
+2241,litebar,Litebar,2018-01-15 20:40:27.800,LTB
+2242,roulettetoken,Roulettetoken,2018-01-15 20:40:27.800,RLT
+2243,parallelcoin,Parallelcoin,2018-01-15 20:40:27.800,DUO
+2244,fujinto,Fujinto,2018-01-15 20:40:27.800,NTO
+2245,prime-xi,Prime Xi,2018-01-15 20:40:27.800,PXI
+2246,dalecoin,Dalecoin,2018-01-15 20:40:27.800,DALC
+2247,digital-developers-fund,Digital Developers Fund,2018-01-15 20:40:27.800,DDF
+2248,quatloo,Quatloo,2018-01-15 20:40:27.800,QTL
+2249,darsek,Darsek,2018-01-15 20:40:27.800,KED
+2250,berncash,Berncash,2018-01-15 20:40:27.800,BERN
+2251,spacecoin,Spacecoin,2018-01-15 20:40:27.800,SPACE
+2252,sovereign-hero,Sovereign Hero,2018-01-15 20:40:27.800,HERO
+2253,network-token,Network Token,2018-01-15 20:40:27.803,NTWK
+2254,emerald,Emerald,2018-01-15 20:40:27.803,EMD
+2255,zozocoin,Zozocoin,2018-01-15 20:40:27.803,ZZC
+2256,bitquark,Bitquark,2018-01-15 20:40:27.803,BTQ
+2257,trident,Trident,2018-01-15 20:40:27.803,TRDT
+2258,bittokens,Bittokens,2018-01-15 20:40:27.803,BXT
+2259,tagcoin,Tagcoin,2018-01-15 20:40:27.803,TAG
+2260,senderon,Senderon,2018-01-15 20:40:27.803,SDRN
+2261,bolivarcoin,Bolivarcoin,2018-01-15 20:40:27.803,BOLI
+2262,mincoin,Mincoin,2018-01-15 20:40:27.803,MNC
+2263,ethgas,Ethgas,2018-01-15 20:40:27.803,EGAS
+2264,blakecoin,Blakecoin,2018-01-15 20:40:27.807,BLC
+2265,btsr,Btsr,2018-01-15 20:40:27.807,BTSR
+2266,marscoin,Marscoin,2018-01-15 20:40:27.807,MARS
+2267,bitbtc,Bitbtc,2018-01-15 20:40:27.807,BITBTC
+2268,gameunits,Gameunits,2018-01-15 20:40:27.807,UNITS
+2269,swing,Swing,2018-01-15 20:40:27.807,SWING
+2270,zurcoin,Zurcoin,2018-01-15 20:40:27.807,ZUR
+2271,rubies,Rubies,2018-01-15 20:40:27.807,RBIES
+2272,cypher,Cypher,2018-01-15 20:40:27.807,CYP
+2273,bitcoin-planet,Bitcoin Planet,2018-01-15 20:40:27.810,BTPL
+2274,jin-coin,Jin Coin,2018-01-15 20:40:27.810,JIN
+2275,sooncoin,Sooncoin,2018-01-15 20:40:27.810,SOON
+2276,kayicoin,Kayicoin,2018-01-15 20:40:27.810,KAYI
+2277,hexx,Hexx,2018-01-15 20:40:27.810,HXX
+2278,eurocoin,Eurocoin,2018-01-15 20:40:27.810,EUC
+2279,bitasean,Bitasean,2018-01-15 20:40:27.810,BAS
+2280,marijuanacoin,Marijuanacoin,2018-01-15 20:40:27.810,MAR
+2281,virta-unique-coin,Virta Unique Coin,2018-01-15 20:40:27.810,VUC
+2282,mustangcoin,Mustangcoin,2018-01-15 20:40:27.810,MST
+2283,ebitcoin-cash,Ebitcoin Cash,2018-01-15 20:40:27.810,EBCH
+2284,kronecoin,Kronecoin,2018-01-15 20:40:27.810,KRONE
+2285,philosopher-stones,Philosopher Stones,2018-01-15 20:40:27.810,PHS
+2286,motocoin,Motocoin,2018-01-15 20:40:27.813,MOTO
+2287,reecoin,Reecoin,2018-01-15 20:40:27.813,REE
+2288,quazarcoin,Quazarcoin,2018-01-15 20:40:27.813,QCN
+2289,catcoin,Catcoin,2018-01-15 20:40:27.813,CAT
+2290,mao-zedong,Mao Zedong,2018-01-15 20:40:27.813,MAO
+2291,money,Money,2018-01-15 20:40:27.813,$$$
+2292,globalboost-y,Globalboost Y,2018-01-15 20:40:27.813,BSTY
+2293,tekcoin,Tekcoin,2018-01-15 20:40:27.813,TEK
+2294,aquariuscoin,Aquariuscoin,2018-01-15 20:40:27.813,ARCO
+2295,globaltoken,Globaltoken,2018-01-15 20:40:27.813,GLT
+2296,sativacoin,Sativacoin,2018-01-15 20:40:27.817,STV
+2297,honey,Honey,2018-01-15 20:40:27.817,HONEY
+2298,idice,Idice,2018-01-15 20:40:27.817,ICE
+2299,satoshimadness,Satoshimadness,2018-01-15 20:40:27.817,MAD
+2300,evotion,Evotion,2018-01-15 20:40:27.817,EVO
+2301,soilcoin,Soilcoin,2018-01-15 20:40:27.817,SOIL
+2302,btctalkcoin,Btctalkcoin,2018-01-15 20:40:27.817,TALK
+2303,icobid,Icobid,2018-01-15 20:40:27.817,ICOB
+2304,bumbacoin,Bumbacoin,2018-01-15 20:40:27.817,BUMBA
+2305,eaglecoin,Eaglecoin,2018-01-15 20:40:27.817,EAGLE
+2306,cashcoin,Cashcoin,2018-01-15 20:40:27.817,CASH
+2307,neuro,Neuro,2018-01-15 20:40:27.820,NRO
+2308,x-coin,X Coin,2018-01-15 20:40:27.820,XCO
+2309,gold-pressed-latinum,Gold Pressed Latinum,2018-01-15 20:40:27.820,GPL
+2310,metal-music-coin,Metal Music Coin,2018-01-15 20:40:27.820,MTLMC3
+2311,gpu-coin,Gpu Coin,2018-01-15 20:40:27.820,GPU
+2312,eryllium,Eryllium,2018-01-15 20:40:27.820,ERY
+2313,bitgem,Bitgem,2018-01-15 20:40:27.820,BTG
+2314,acoin,Acoin,2018-01-15 20:40:27.820,ACOIN
+2315,sixeleven,Sixeleven,2018-01-15 20:40:27.820,611
+2316,fuzzballs,Fuzzballs,2018-01-15 20:40:27.820,FUZZ
+2317,beatcoin,Beatcoin,2018-01-15 20:40:27.820,XBTS
+2318,bitz,Bitz,2018-01-15 20:40:27.820,BITZ
+2319,cachecoin,Cachecoin,2018-01-15 20:40:27.820,CACH
+2320,ronpaulcoin,Ronpaulcoin,2018-01-15 20:40:27.820,RPC
+2321,virtacoinplus,Virtacoinplus,2018-01-15 20:40:27.823,XVP
+2322,bitsilver,Bitsilver,2018-01-15 20:40:27.823,BITSILVER
+2323,litecoin-ultra,Litecoin Ultra,2018-01-15 20:40:27.823,LTCU
+2324,creatio,Creatio,2018-01-15 20:40:27.823,XCRE
+2325,compucoin,Compucoin,2018-01-15 20:40:27.823,CPN
+2326,ereal,Ereal,2018-01-15 20:40:27.823,EREAL
+2327,flaxscript,Flaxscript,2018-01-15 20:40:27.823,FLAX
+2328,bipcoin,Bipcoin,2018-01-15 20:40:27.823,BIP
+2329,allion,Allion,2018-01-15 20:40:27.823,ALL
+2330,slevin,Slevin,2018-01-15 20:40:27.827,SLEVIN
+2331,theresa-may-coin,Theresa May Coin,2018-01-15 20:40:27.827,MAY
+2332,goldpieces,Goldpieces,2018-01-15 20:40:27.827,GP
+2333,songcoin,Songcoin,2018-01-15 20:40:27.827,SONG
+2334,aerium,Aerium,2018-01-15 20:40:27.827,AERM
+2335,global-tour-coin,Global Tour Coin,2018-01-15 20:40:27.827,GTC
+2336,exchangen,Exchangen,2018-01-15 20:40:27.827,EXN
+2337,digital-rupees,Digital Rupees,2018-01-15 20:40:27.827,DRS
+2338,solarflarecoin,Solarflarecoin,2018-01-15 20:40:27.827,SFC
+2339,300-token,300 Token,2018-01-15 20:40:27.827,300
+2340,ecocoin,Ecocoin,2018-01-15 20:40:27.830,ECO
+2341,rupaya,Rupaya,2018-01-15 20:40:27.830,RUPX
+2342,comet,Comet,2018-01-15 20:40:27.830,CMT
+2343,doubloon,Doubloon,2018-01-15 20:40:27.830,BOAT
+2344,nevacoin,Nevacoin,2018-01-15 20:40:27.830,NEVA
+2345,healthywormcoin,Healthywormcoin,2018-01-15 20:40:27.830,WORM
+2346,bnrtxcoin,Bnrtxcoin,2018-01-15 20:40:27.830,BNX
+2347,benjirolls,Benjirolls,2018-01-15 20:40:27.830,BENJI
+2348,coinonat,Coinonat,2018-01-15 20:40:27.830,CXT
+2349,master-swiscoin,Master Swiscoin,2018-01-15 20:40:27.830,MSCN
+2350,bitgold,Bitgold,2018-01-15 20:40:27.830,BITGOLD
+2351,impact,Impact,2018-01-15 20:40:27.830,IMX
+2352,spots,Spots,2018-01-15 20:40:27.830,SPT
+2353,luna-coin,Luna Coin,2018-01-15 20:40:27.833,LUNA
+2354,useless-ethereum-token,Useless Ethereum Token,2018-01-15 20:40:27.833,UET
+2355,bolenum,Bolenum,2018-01-15 20:40:27.833,BLN
+2356,tajcoin,Tajcoin,2018-01-15 20:40:27.833,TAJ
+2357,uro,Uro,2018-01-15 20:40:27.833,URO
+2358,torcoin-tor,Torcoin Tor,2018-01-15 20:40:27.833,TOR
+2359,zetamicron,Zetamicron,2018-01-15 20:40:27.833,ZMC
+2360,cthulhu-offerings,Cthulhu Offerings,2018-01-15 20:40:27.833,OFF
+2361,allsafe,Allsafe,2018-01-15 20:40:27.833,ASAFE2
+2362,leacoin,Leacoin,2018-01-15 20:40:27.833,LEA
+2363,swaptoken,Swaptoken,2018-01-15 20:40:27.837,TOKEN
+2364,kingn-coin,Kingn Coin,2018-01-15 20:40:27.837,KNC
+2365,women,Women,2018-01-15 20:40:27.837,WOMEN
+2366,antibitcoin,Antibitcoin,2018-01-15 20:40:27.837,ANTI
+2367,bitcoin-21,Bitcoin 21,2018-01-15 20:40:27.837,XBTC21
+2368,iconic,Iconic,2018-01-15 20:40:27.837,ICON
+2369,vector,Vector,2018-01-15 20:40:27.837,VEC2
+2370,hempcoin-hmp,Hempcoin Hmp,2018-01-15 20:40:27.837,HMP
+2371,dappster,Dappster,2018-01-15 20:40:27.837,DLISK
+2372,skeincoin,Skeincoin,2018-01-15 20:40:27.837,SKC
+2373,playercoin,Playercoin,2018-01-15 20:40:27.837,PLACO
+2374,debitcoin,Debitcoin,2018-01-15 20:40:27.840,DBTC
+2375,artex-coin,Artex Coin,2018-01-15 20:40:27.840,ATX
+2376,usde,Usde,2018-01-15 20:40:27.840,USDE
+2377,cybcsec,Cybcsec,2018-01-15 20:40:27.840,XCS
+2378,roofs,Roofs,2018-01-15 20:40:27.840,ROOFS
+2379,quebecoin,Quebecoin,2018-01-15 20:40:27.840,QBC
+2380,printerium,Printerium,2018-01-15 20:40:27.840,PRX
+2381,socialcoin-socc,Socialcoin Socc,2018-01-15 20:40:27.840,SOCC
+2382,ponzicoin,Ponzicoin,2018-01-15 20:40:27.840,PONZI
+2383,ride-my-car,Ride My Car,2018-01-15 20:40:27.840,RIDE
+2384,biteur,Biteur,2018-01-15 20:40:27.840,BITEUR
+2385,plncoin,Plncoin,2018-01-15 20:40:27.840,PLNC
+2386,bitvolt,Bitvolt,2018-01-15 20:40:27.840,VOLT
+2387,dibcoin,Dibcoin,2018-01-15 20:40:27.843,DIBC
+2388,geertcoin,Geertcoin,2018-01-15 20:40:27.843,GEERT
+2389,prcoin,Prcoin,2018-01-15 20:40:27.843,PRC
+2390,litecred,Litecred,2018-01-15 20:40:27.843,LTCR
+2391,genstake,Genstake,2018-01-15 20:40:27.843,G3N
+2392,wild-beast-block,Wild Beast Block,2018-01-15 20:40:27.843,WBB
+2393,high-voltage,High Voltage,2018-01-15 20:40:27.843,HVCO
+2394,orlycoin,Orlycoin,2018-01-15 20:40:27.843,ORLY
+2395,veros,Veros,2018-01-15 20:40:27.843,VRS
+2396,vault-coin,Vault Coin,2018-01-15 20:40:27.847,VLTC
+2397,vaperscoin,Vaperscoin,2018-01-15 20:40:27.847,VPRC
+2398,cabbage,Cabbage,2018-01-15 20:40:27.847,CAB
+2399,anarchistsprime,Anarchistsprime,2018-01-15 20:40:27.847,ACP
+2400,braincoin,Braincoin,2018-01-15 20:40:27.847,BRAIN
+2401,ibank,Ibank,2018-01-15 20:40:27.847,IBANK
+2402,speedcash,Speedcash,2018-01-15 20:40:27.847,SCS
+2403,credence-coin,Credence Coin,2018-01-15 20:40:27.847,CRDNC
+2404,dollar-online,Dollar Online,2018-01-15 20:40:27.847,DOLLAR
+2405,unrealcoin,Unrealcoin,2018-01-15 20:40:27.847,URC
+2406,argus,Argus,2018-01-15 20:40:27.847,ARGUS
+2407,posex,Posex,2018-01-15 20:40:27.850,PEX
+2408,coimatic-2,Coimatic 2,2018-01-15 20:40:27.850,CTIC2
+2409,impulsecoin,Impulsecoin,2018-01-15 20:40:27.850,IMPS
+2410,coimatic-3,Coimatic 3,2018-01-15 20:40:27.850,CTIC3
+2411,biobar,Biobar,2018-01-15 20:40:27.850,BIOB
+2412,elysium,Elysium,2018-01-15 20:40:27.850,ELS
+2413,levoplus,Levoplus,2018-01-15 20:40:27.850,LVPS
+2414,futurexe,Futurexe,2018-01-15 20:40:27.850,FXE
+2415,crevacoin,Crevacoin,2018-01-15 20:40:27.850,CREVA
+2416,p7coin,P7coin,2018-01-15 20:40:27.850,P7C
+2417,ego,Ego,2018-01-15 20:40:27.850,EGO
+2418,cryptoescudo,Cryptoescudo,2018-01-15 20:40:27.850,CESC
+2419,ulatech,Ulatech,2018-01-15 20:40:27.850,ULA
+2420,rawcoin2,Rawcoin2,2018-01-15 20:40:27.853,XRC
+2421,magnum,Magnum,2018-01-15 20:40:27.853,MGM
+2422,concoin,Concoin,2018-01-15 20:40:27.853,CONX
+2423,geysercoin,Geysercoin,2018-01-15 20:40:27.853,GSR
+2424,project-x,Project X,2018-01-15 20:40:27.853,NANOX
+2425,tristar-coin,Tristar Coin,2018-01-15 20:40:27.853,TSTR
+2426,selfiecoin,Selfiecoin,2018-01-15 20:40:27.853,SLFI
+2427,enigma,Enigma,2018-01-15 20:40:27.853,XNG
+2428,harmonycoin-hmc,Harmonycoin Hmc,2018-01-15 20:40:27.853,HMC
+2429,ebittree-coin,Ebittree Coin,2018-01-15 20:40:27.857,EBT
+2430,digital-money-bits,Digital Money Bits,2018-01-15 20:40:27.857,DMB
+2431,abncoin,Abncoin,2018-01-15 20:40:27.857,ABN
+2432,caliphcoin,Caliphcoin,2018-01-15 20:40:27.857,CALC
+2433,applecoin-apw,Applecoin Apw,2018-01-15 20:40:27.857,APW
+2434,photon,Photon,2018-01-15 20:40:27.857,PHO
+2435,gcoin,Gcoin,2018-01-15 20:40:27.857,GCN
+2436,virtacoin,Virtacoin,2018-01-15 20:40:27.857,VTA
+2437,bitswift,Bitswift,2018-01-15 20:40:27.857,SWIFT
+2438,the-cypherfunks,The Cypherfunks,2018-01-15 20:40:27.860,FUNK
+2439,rustbits,Rustbits,2018-01-15 20:40:27.860,RUSTBITS
+2440,janus,Janus,2018-01-15 20:40:27.860,JNS
+2441,inpay,Inpay,2018-01-15 20:40:27.860,INPAY
+2442,bunnycoin,Bunnycoin,2018-01-15 20:40:27.860,BUN
+2443,cryptcoin,Cryptcoin,2018-01-15 20:40:27.860,CRYPT
+2444,woodcoin,Woodcoin,2018-01-15 20:40:27.860,LOG
+2445,yashcoin,Yashcoin,2018-01-15 20:40:27.860,YASH
+2446,shorty,Shorty,2018-01-15 20:40:27.860,SHORTY
+2447,ultimate-secure-cash,Ultimate Secure Cash,2018-01-15 20:40:27.860,USC
+2448,fimkrypto,Fimkrypto,2018-01-15 20:40:27.860,FIMK
+2449,arcade-token,Arcade Token,2018-01-15 20:40:27.860,ARC
+2450,lottocoin,Lottocoin,2018-01-15 20:40:27.863,LOT
+2451,corgicoin,Corgicoin,2018-01-15 20:40:27.863,CORG
+2452,casino,Casino,2018-01-15 20:40:27.863,CASINO
+2453,bankcoin,Bankcoin,2018-01-15 20:40:27.863,B@
+2454,stress,Stress,2018-01-15 20:40:27.863,STS
+2455,interzone,Interzone,2018-01-15 20:40:27.863,ITZ
+2456,fincoin,Fincoin,2018-01-15 20:40:27.863,FNC
+2457,ambercoin,Ambercoin,2018-01-15 20:40:27.867,AMBER
+2458,remicoin,Remicoin,2018-01-15 20:40:27.867,RMC
+2459,ganjacoin,Ganjacoin,2018-01-15 20:40:27.867,MRJA
+2460,valorbit,Valorbit,2018-01-15 20:40:27.867,VAL
+2461,wayguide,Wayguide,2018-01-15 20:40:27.867,WAY
+2462,briacoin,Briacoin,2018-01-15 20:40:27.867,BRIA
+2463,globalcoin,Globalcoin,2018-01-15 20:40:27.867,GLC
+2464,flycoin,Flycoin,2018-01-15 20:40:27.867,FLY
+2465,px,Px,2018-01-15 20:40:27.867,PX
+2466,blazecoin,Blazecoin,2018-01-15 20:40:27.870,BLZ
+2467,mutual-coin,Mutual Coin,2018-01-15 20:40:27.870,MUT
+2468,shilling,Shilling,2018-01-15 20:40:27.870,SH
+2469,coexistcoin,Coexistcoin,2018-01-15 20:40:27.870,COXST
+2470,secretcoin,Secretcoin,2018-01-15 20:40:27.870,SCRT
+2471,grantcoin,Grantcoin,2018-01-15 20:40:27.870,GRT
+2472,firecoin,Firecoin,2018-01-15 20:40:27.870,FIRE
+2473,joincoin,Joincoin,2018-01-15 20:40:27.870,J
+2474,freicoin,Freicoin,2018-01-15 20:40:27.870,FRC
+2475,shadow-token,Shadow Token,2018-01-15 20:40:27.873,SHDW
+2476,sproutsextreme,Sproutsextreme,2018-01-15 20:40:27.873,SPEX
+2477,islacoin,Islacoin,2018-01-15 20:40:27.873,ISL
+2478,newbium,Newbium,2018-01-15 20:40:27.873,NEWB
+2479,yacoin,Yacoin,2018-01-15 20:40:27.873,YAC
+2480,sling,Sling,2018-01-15 20:40:27.873,SLING
+2481,virtualcoin,Virtualcoin,2018-01-15 20:40:27.873,VC
+2482,franko,Franko,2018-01-15 20:40:27.873,FRK
+2483,wmcoin,Wmcoin,2018-01-15 20:40:27.873,WMC
+2484,ether-for-the-rest-of-the-world,Ether For The Rest Of The World,2018-01-15 20:40:27.877,E4ROW
+2485,crypto,Crypto,2018-01-15 20:40:27.877,CTO
+2486,sacoin,Sacoin,2018-01-15 20:40:27.877,SAC
+2487,boostcoin,Boostcoin,2018-01-15 20:40:27.877,BOST
+2488,californium,Californium,2018-01-15 20:40:27.877,CF
+2489,piecoin,Piecoin,2018-01-15 20:40:27.877,PIE
+2490,javascript-token,Javascript Token,2018-01-15 20:40:27.877,JS
+2491,guccionecoin,Guccionecoin,2018-01-15 20:40:27.877,GCC
+2492,pulse,Pulse,2018-01-15 20:40:27.877,PULSE
+2493,jewels,Jewels,2018-01-15 20:40:27.877,JWL
+2494,vip-tokens,Vip Tokens,2018-01-15 20:40:27.880,VIP
+2495,yellow-token,Yellow Token,2018-01-15 20:40:27.880,YEL
+2496,dreamcoin,Dreamcoin,2018-01-15 20:40:27.880,DRM
+2497,warp,Warp,2018-01-15 20:40:27.880,WARP
+2498,flavorcoin,Flavorcoin,2018-01-15 20:40:27.880,FLVR
+2499,asiadigicoin,Asiadigicoin,2018-01-15 20:40:27.880,ADCN
+2500,destiny,Destiny,2018-01-15 20:40:27.880,DES
+2501,beavercoin,Beavercoin,2018-01-15 20:40:27.880,BVC
+2502,ripto-bux,Ripto Bux,2018-01-15 20:40:27.880,RBX
+2503,cryptoworldx-token,Cryptoworldx Token,2018-01-15 20:40:27.880,CWXT
+2504,rsgpcoin,Rsgpcoin,2018-01-15 20:40:27.880,RSGP
+2505,billarycoin,Billarycoin,2018-01-15 20:40:27.880,BLRY
+2506,milocoin,Milocoin,2018-01-15 20:40:27.880,MILO
+2507,bowscoin,Bowscoin,2018-01-15 20:40:27.880,BSC
+2508,bios-crypto,Bios Crypto,2018-01-15 20:40:27.883,BIOS
+2509,zayedcoin,Zayedcoin,2018-01-15 20:40:27.883,ZYD
+2510,jobscoin,Jobscoin,2018-01-15 20:40:27.883,JOBS
+2511,arbit,Arbit,2018-01-15 20:40:27.883,ARB
+2512,mindcoin,Mindcoin,2018-01-15 20:40:27.883,MND
+2513,blackstar,Blackstar,2018-01-15 20:40:27.883,BSTAR
+2514,tagrcoin,Tagrcoin,2018-01-15 20:40:27.883,TAGR
+2515,gamebet-coin,Gamebet Coin,2018-01-15 20:40:27.883,GBT
+2516,steps,Steps,2018-01-15 20:40:27.883,STEPS
+2517,xonecoin,Xonecoin,2018-01-15 20:40:27.883,XOC
+2518,morningstar-payments,Morningstar Payments,2018-01-15 20:40:27.883,MRNG
+2519,mtmgaming,Mtmgaming,2018-01-15 20:40:27.887,MTM
+2520,tychocoin,Tychocoin,2018-01-15 20:40:27.887,TYCHO
+2521,zonecoin,Zonecoin,2018-01-15 20:40:27.887,ZNE
+2522,letitride,Letitride,2018-01-15 20:40:27.887,LIR
+2523,corethum,Corethum,2018-01-15 20:40:27.887,CRTM
+2524,sojourn,Sojourn,2018-01-15 20:40:27.887,SOJ
+2525,crtcoin,Crtcoin,2018-01-15 20:40:27.887,CRT
+2526,osmiumcoin,Osmiumcoin,2018-01-15 20:40:27.887,OS76
+2527,antilitecoin,Antilitecoin,2018-01-15 20:40:27.887,ALTC
+2528,nodecoin,Nodecoin,2018-01-15 20:40:27.890,NODC
+2529,sydpak,Sydpak,2018-01-15 20:40:27.890,SDP
+2530,frazcoin,Frazcoin,2018-01-15 20:40:27.890,FRAZ
+2531,agrolifecoin,Agrolifecoin,2018-01-15 20:40:27.890,AGLC
+2532,lex4all,Lex4all,2018-01-15 20:40:27.890,LEX
+2533,qibuck-asset,Qibuck Asset,2018-01-15 20:40:27.890,QBK
+2534,ccminer,Ccminer,2018-01-15 20:40:27.890,CCM100
+2535,save-and-gain,Save And Gain,2018-01-15 20:40:27.890,SANDG
+2536,gbcgoldcoin,Gbcgoldcoin,2018-01-15 20:40:27.890,GBC
+2537,digital-credits,Digital Credits,2018-01-15 20:40:27.890,DGCS
+2538,coffeecoin,Coffeecoin,2018-01-15 20:40:27.890,CFC
+2539,pizzacoin,Pizzacoin,2018-01-15 20:40:27.890,PIZZA
+2540,burstocean,Burstocean,2018-01-15 20:40:27.890,OCEAN
+2541,atmcoin,Atmcoin,2018-01-15 20:40:27.893,ATMC
+2542,ins-ecosystem,Ins Ecosystem,2018-01-15 20:40:27.893,INS
+2543,bitcoin-diamond,Bitcoin Diamond,2018-01-15 20:40:27.893,BCD
+2544,show,Show,2018-01-15 20:40:27.893,SHOW
+2545,swftcoin,Swftcoin,2018-01-15 20:40:27.893,SWFTC
+2546,medishares,Medishares,2018-01-15 20:40:27.893,MDS
+2547,bibox-token,Bibox Token,2018-01-15 20:40:27.893,BIX
+2548,internet-node-token,Internet Node Token,2018-01-15 20:40:27.893,INT
+2549,genaro-network,Genaro Network,2018-01-15 20:40:27.893,GNX
+2550,selfkey,Selfkey,2018-01-15 20:40:27.893,KEY
+2551,echolink,Echolink,2018-01-15 20:40:27.893,EKO
+2552,waykichain,Waykichain,2018-01-15 20:40:27.897,WIC
+2553,smartmesh,Smartmesh,2018-01-15 20:40:27.897,SMT
+2554,aidoc,Aidoc,2018-01-15 20:40:27.897,AIDOC
+2555,bitcoinx,Bitcoinx,2018-01-15 20:40:27.897,BCX
+2556,bottos,Bottos,2018-01-15 20:40:27.897,BTO
+2557,game,Game,2018-01-15 20:40:27.897,GTC
+2558,cappasity,Cappasity,2018-01-15 20:40:27.897,CAPP
+2559,kcash,Kcash,2018-01-15 20:40:27.897,KCASH
+2560,html-coin,Html Coin,2018-01-15 20:40:27.897,HTML
+2561,high-performance-blockchain,High Performance Blockchain,2018-01-15 20:40:27.897,HPB
+2562,topchain,Topchain,2018-01-15 20:40:27.897,TOPC
+2563,energo,Energo,2018-01-15 20:40:27.900,TSL
+2564,coinlancer,Coinlancer,2018-01-15 20:40:27.900,CL
+2565,olympus-labs,Olympus Labs,2018-01-15 20:40:27.900,MOT
+2566,qlink,Qlink,2018-01-15 20:40:27.900,QLC
+2567,micromoney,Micromoney,2018-01-15 20:40:27.900,AMM
+2568,canyacoin,Canyacoin,2018-01-15 20:40:27.900,CAN
+2569,hyper-pay,Hyper Pay,2018-01-15 20:40:27.900,HPY
+2570,trade-token,Trade Token,2018-01-15 20:40:27.900,TIO
+2571,super-bitcoin,Super Bitcoin,2018-01-15 20:40:27.900,SBTC
+2572,tezos,Tezos,2018-01-15 20:40:27.900,XTZ
+2573,lendconnect,Lendconnect,2018-01-15 20:40:27.900,LCT
+2574,kubera-coin,Kubera Coin,2018-01-15 20:40:27.900,KBR
+2575,bitclave,Bitclave,2018-01-15 20:40:27.900,CAT
+2576,aigang,Aigang,2018-01-15 20:40:27.900,AIX
+2577,fairgame,Fairgame,2018-01-15 20:40:27.903,FAIR
+2578,qbao,Qbao,2018-01-15 20:40:27.903,QBT
+2579,fargocoin,Fargocoin,2018-01-15 20:40:27.903,FRGC
+2580,ignis,Ignis,2018-01-15 20:40:27.903,IGNIS
+2581,sophiatx,Sophiatx,2018-01-15 20:40:27.903,SPHTX
+2582,segwit2x,Segwit2x,2018-01-15 20:40:27.903,B2X
+2583,viuly,Viuly,2018-01-15 20:40:27.903,VIU
+2584,ugchain,Ugchain,2018-01-15 20:40:27.903,UGC
+2585,aware,Aware,2018-01-15 20:40:27.903,AWR
+2586,cfun,Cfun,2018-01-15 20:40:27.903,CFUN
+2587,measurable-data-token,Measurable Data Token,2018-01-15 20:40:27.907,MDT
+2588,cyder,Cyder,2018-01-15 20:40:27.907,CYDER
+2589,ug-token,Ug Token,2018-01-15 20:40:27.907,UGT
+2590,win-coin,Win Coin,2018-01-15 20:40:27.907,WC
+2591,rebellious,Rebellious,2018-01-15 20:40:27.907,REBL
+2592,filecoin,Filecoin,2018-01-15 20:40:27.907,FIL
+2593,bigone-token,Bigone Token,2018-01-15 20:40:27.907,BIG
+2594,telcoin,Telcoin,2018-01-15 20:40:27.907,TEL
+2595,ea-coin,Ea Coin,2018-01-15 20:40:27.907,EAG
+2596,comsa-eth,Comsa Eth,2018-01-15 20:40:27.907,CMS
+2597,atn,Atn,2018-01-15 20:40:27.910,ATN
+2598,stronghands,Stronghands,2018-01-15 20:40:27.910,SHND
+2599,maker,Maker,2018-01-15 20:40:27.910,MKR
+2600,poly-ai,Poly Ai,2018-01-15 20:40:27.910,AI
+2601,united-bitcoin,United Bitcoin,2018-01-15 20:40:27.910,UBTC
+2602,bitdegree,Bitdegree,2018-01-15 20:40:27.910,BDG
+2603,zap,Zap,2018-01-15 20:40:27.910,ZAP
+2604,b3coin,B3coin,2018-01-15 20:40:27.910,B3
+2605,comsa-xem,Comsa Xem,2018-01-15 20:40:27.910,CMS
+2606,infchain,Infchain,2018-01-15 20:40:27.910,INF
+2607,ace,Ace,2018-01-15 20:40:27.910,ACE
+2608,cloud,Cloud,2018-01-15 20:40:27.910,CLD
+2609,mixin,Mixin,2018-01-15 20:40:27.913,XIN
+2610,homeblockcoin,Homeblockcoin,2018-01-15 20:40:27.913,HBC
+2611,weth,Weth,2018-01-15 20:40:27.913,WETH
+2612,jingtum-tech,Jingtum Tech,2018-01-15 20:40:27.913,SWTC
+2613,polis,Polis,2018-01-15 20:40:27.913,POLIS
+2614,htmlcoin,Htmlcoin,2018-01-15 20:40:27.913,HTML5
+2615,davorcoin,Davorcoin,2018-01-15 20:40:27.913,DAV
+2616,cryptopiafeeshares,Cryptopiafeeshares,2018-01-15 20:40:27.913,CEFS
+2617,clubcoin,Clubcoin,2018-01-15 20:40:27.913,CLUB
+2618,numus,Numus,2018-01-15 20:40:27.917,NMS
+2619,bitair,Bitair,2018-01-15 20:40:27.917,BTCA
+2620,infinitecoin,Infinitecoin,2018-01-15 20:40:27.917,IFC
+2621,fapcoin,Fapcoin,2018-01-15 20:40:27.917,FAP
+2622,fazzcoin,Fazzcoin,2018-01-15 20:40:27.917,FAZZ
+2623,antimatter,Antimatter,2018-01-15 20:40:27.917,ANTX
+2624,sphre-air,Sphre Air,2018-01-15 20:40:27.917,XID
+2625,lightning-bitcoin,Lightning Bitcoin,2018-01-15 20:40:27.917,LBTC
+2626,lltoken,Lltoken,2018-01-15 20:40:27.917,LLT
+2627,ignition,Ignition,2018-01-15 20:40:27.917,IC
+2628,tokenclub,Tokenclub,2018-01-15 20:40:27.920,TCT
+2629,escoro,Escoro,2018-01-15 20:40:27.920,ESC
+2630,hackspace-capital,Hackspace Capital,2018-01-15 20:40:27.920,HAC
+2631,swisscoin,Swisscoin,2018-01-15 20:40:27.920,SIC
+2632,uquid-coin,Uquid Coin,2018-01-15 20:40:27.920,UQC
+2633,coupecoin,Coupecoin,2018-01-15 20:40:27.920,COUPE
+2634,bitsoar,Bitsoar,2018-01-15 20:40:27.920,BSR
+2635,bitserial,Bitserial,2018-01-15 20:40:27.920,BTE
+2636,bitcoin-atom,Bitcoin Atom,2018-01-15 20:40:27.920,BCA
+2637,neo-gold,Neo Gold,2018-01-15 20:40:27.920,NEOG
+2638,dimcoin,Dimcoin,2018-01-15 20:40:27.920,DIM
+2639,tokugawa,Tokugawa,2018-01-15 20:40:27.920,TOK
+2640,karma,Karma,2018-01-15 20:40:27.920,KRM
+2641,infinity-economics,Infinity Economics,2018-01-15 20:40:27.923,XIN
+2642,golos-gold,Golos Gold,2018-01-15 20:40:27.923,GBG
+2643,zengold,Zengold,2018-01-15 20:40:27.923,ZENGOLD
+2644,spectre-dividend,Spectre Dividend,2018-01-15 20:40:27.923,SXDT
+2645,vezt,Vezt,2018-01-15 20:40:27.923,VZT
+2646,strikebitclub,Strikebitclub,2018-01-15 20:40:27.923,SBC
+2647,bankex,Bankex,2018-01-15 20:40:27.923,BKX
+2648,fidentiax,Fidentiax,2018-01-15 20:40:27.923,FDX
+2649,ties-network,Ties Network,2018-01-15 20:40:27.927,TIE
+2650,granitecoin,Granitecoin,2018-01-15 20:40:27.927,GRN
+2651,pluscoin,Pluscoin,2018-01-15 20:40:27.927,PLC
+2652,uttoken,Uttoken,2018-01-15 20:40:27.927,UTT
+2653,gold-reward-token,Gold Reward Token,2018-01-15 20:40:27.927,GRX
+2654,bitcoin-god,Bitcoin God,2018-01-15 20:40:27.927,GOD
+2655,plexcoin,Plexcoin,2018-01-15 20:40:27.927,PLX
+2656,blockcdn,Blockcdn,2018-01-15 20:40:27.927,BCDN
+2657,high-gain,High Gain,2018-01-15 20:40:27.927,HIGH
+2658,litecoin-gold,Litecoin Gold,2018-01-15 20:40:27.927,LTG
+2659,leverj,Leverj,2018-01-15 20:40:27.930,LEV
+2660,bloomtoken,Bloomtoken,2018-01-15 20:40:27.930,BLT
+2661,spectre-utility,Spectre Utility,2018-01-15 20:40:27.930,SXUT
+2662,kzcash,Kzcash,2018-01-15 20:40:27.930,KZC
+2663,boscoin,Boscoin,2018-01-15 20:40:27.930,BOS
+2664,op-coin,Op Coin,2018-01-15 20:40:27.930,OPC
+2665,numuscash,Numuscash,2018-01-15 20:40:27.930,NUMUS
+2666,guts-tickets,Guts Tickets,2018-01-15 20:40:27.930,GET
+2667,terranova,Terranova,2018-01-15 20:40:27.930,TER
+2668,nimfamoney,Nimfamoney,2018-01-15 20:40:27.930,NIMFA
+2669,magiccoin,Magiccoin,2018-01-15 20:40:27.930,MAGE
+2670,gamechain,Gamechain,2018-01-15 20:40:27.930,GCS
+2671,pylon-network,Pylon Network,2018-01-15 20:40:27.930,PYLNT
+2672,protean,Protean,2018-01-15 20:40:27.930,PRN
+2673,starbase,Starbase,2018-01-15 20:40:27.933,STAR
+2674,suretly,Suretly,2018-01-15 20:40:27.933,SUR
+2675,btcmoon,Btcmoon,2018-01-15 20:40:27.933,BTCM
+2676,regacoin,Regacoin,2018-01-15 20:40:27.933,REGA
+2677,exrnchain,Exrnchain,2018-01-15 20:40:27.933,EXRN
+2678,hodl-bucks,Hodl Bucks,2018-01-15 20:40:27.933,HDLB
+2679,phantomx,Phantomx,2018-01-15 20:40:27.933,PNX
+2680,cryptopay,Cryptopay,2018-01-15 20:40:27.933,CPAY
+2681,safe-trade-coin,Safe Trade Coin,2018-01-15 20:40:27.933,XSTC
+2682,uncoin,Uncoin,2018-01-15 20:40:27.933,UNC
+2683,akuya-coin,Akuya Coin,2018-01-15 20:40:27.937,AKY
+2684,sisa,Sisa,2018-01-15 20:40:27.937,SISA
+2685,wi-coin,Wi Coin,2018-01-15 20:40:27.937,WIC
+2686,chronologic,Chronologic,2018-01-15 20:40:27.937,DAY
+2687,peepcoin,Peepcoin,2018-01-15 20:40:27.937,PCN
+2688,aces,Aces,2018-01-15 20:40:27.937,ACES
+2689,animecoin,Animecoin,2018-01-15 20:40:27.937,ANI
+2690,edrcoin,Edrcoin,2018-01-15 20:40:27.937,EDRC
+2691,bestchain,Bestchain,2018-01-15 20:40:27.937,BEST
+2692,peacecoin,Peacecoin,2018-01-15 20:40:27.937,PEC
+2693,fonziecoin,Fonziecoin,2018-01-15 20:40:27.940,FONZ
+2694,india-coin,India Coin,2018-01-15 20:40:27.940,INDIA
+2695,ur,Ur,2018-01-15 20:40:27.940,UR
+2696,iquant,Iquant,2018-01-15 20:40:27.940,IQT
+2697,irishcoin,Irishcoin,2018-01-15 20:40:27.940,IRL
+2698,anryze,Anryze,2018-01-15 20:40:27.940,RYZ
+2699,vpncoin,Vpncoin,2018-01-15 20:40:27.940,VASH
+2700,dimoncoin,Dimoncoin,2018-01-15 20:40:27.940,FUDD
+2701,techshares,Techshares,2018-01-15 20:40:27.940,THS
+2702,francs,Francs,2018-01-15 20:40:27.940,FRN
+2703,msd,Msd,2018-01-15 20:40:27.940,MSD
+2704,ethereum-lite,Ethereum Lite,2018-01-15 20:40:27.943,ELITE
+2705,cbd-crystals,Cbd Crystals,2018-01-15 20:40:27.943,CBD
+2706,safecoin,Safecoin,2018-01-15 20:40:27.943,SFE
+2707,topcoin,Topcoin,2018-01-15 20:40:27.943,TOP
+2708,wearesatoshi,Wearesatoshi,2018-01-15 20:40:27.943,WSX
+2709,gaycoin,Gaycoin,2018-01-15 20:40:27.943,GAY
+2710,halloween-coin,Halloween Coin,2018-01-15 20:40:27.943,HALLO
+2711,uahpay,Uahpay,2018-01-15 20:40:27.943,UAHPAY
+2712,bitcedi,Bitcedi,2018-01-15 20:40:27.943,BXC
+2713,vulcano,Vulcano,2018-01-15 20:40:27.943,VULC
+2714,turbocoin,Turbocoin,2018-01-15 20:40:27.947,TURBO
+2715,matryx,Matryx,2018-01-15 20:40:27.947,MTX
+2716,dutch-coin,Dutch Coin,2018-01-15 20:40:27.947,DUTCH
+2717,pirate-blocks,Pirate Blocks,2018-01-15 20:40:27.947,SKULL
+2718,sigmacoin,Sigmacoin,2018-01-15 20:40:27.947,SIGMA
+2719,sharkcoin,Sharkcoin,2018-01-15 20:40:27.947,SAK
+2720,sand-coin,Sand Coin,2018-01-15 20:40:27.947,SND
+2721,rublebit,Rublebit,2018-01-15 20:40:27.947,RUBIT
+2722,bitok,Bitok,2018-01-15 20:40:27.947,BITOK
+2723,triaconta,Triaconta,2018-01-15 20:40:27.947,TRIA
+2724,elacoin,Elacoin,2018-01-15 20:40:27.950,ELC
+2725,flappycoin,Flappycoin,2018-01-15 20:40:27.950,FLAP
+2726,donationcoin,Donationcoin,2018-01-15 20:40:27.950,DON
+2727,macro1,Macro1,2018-01-15 20:40:27.950,MCR
+2728,zilbercoin,Zilbercoin,2018-01-15 20:40:27.950,ZBC
+2729,corion,Corion,2018-01-15 20:40:27.950,COR
+2730,everus,Everus,2018-01-15 20:40:27.950,EVR
+2731,encryptotel-eth,Encryptotel Eth,2018-01-15 20:40:27.950,ETT
+2732,landcoin,Landcoin,2018-01-15 20:40:27.950,LDCN
+2733,wowcoin,Wowcoin,2018-01-15 20:40:27.950,WOW
+2734,zsecoin,Zsecoin,2018-01-15 20:40:27.950,ZSE
+2735,content-and-ad-network,Content And Ad Network,2018-01-15 20:40:27.950,CAN
+2736,primulon,Primulon,2018-01-15 20:40:27.950,PRIMU
+2737,minex,Minex,2018-01-15 20:40:27.953,MINEX
+2738,xtd-coin,Xtd Coin,2018-01-15 20:40:27.953,XTD
+2739,glasscoin,Glasscoin,2018-01-15 20:40:27.953,GLS
+2740,alphabitcoinfund,Alphabitcoinfund,2018-01-15 20:40:27.953,ABC
+2741,compcoin,Compcoin,2018-01-15 20:40:27.953,CMP
+2742,bitcoin2x,Bitcoin2x,2018-01-15 20:40:27.953,BTC2X
+2743,dynamiccoin,Dynamiccoin,2018-01-15 20:40:27.953,DMC
+2744,tattoocoin-limited,Tattoocoin Limited,2018-01-15 20:40:27.953,TLE
+2745,eusd,Eusd,2018-01-15 20:40:27.953,EUSD
+2746,bitbase,Bitbase,2018-01-15 20:40:27.953,BTBc
+2747,eventchain,Eventchain,2018-01-15 20:40:27.957,EVC
+2748,bitcoin-silver,Bitcoin Silver,2018-01-15 20:40:27.957,BTCS
+2749,mergecoin,Mergecoin,2018-01-15 20:40:27.957,MGC
+2750,sakuracoin,Sakuracoin,2018-01-15 20:40:27.957,SKR
+2751,cycling-coin,Cycling Coin,2018-01-15 20:40:27.957,CYC
+2752,t-coin,T Coin,2018-01-15 20:40:27.957,TCOIN
+2753,cubits,Cubits,2018-01-15 20:40:27.957,QBT
+2754,huncoin,Huncoin,2018-01-15 20:40:27.957,HNC
+2755,magnetcoin,Magnetcoin,2018-01-15 20:40:27.957,MAGN
+2756,todaycoin,Todaycoin,2018-01-15 20:40:27.960,TODAY
+2757,musiconomi,Musiconomi,2018-01-15 20:40:27.960,MCI
+2758,blockchain-index,Blockchain Index,2018-01-15 20:40:27.960,BLX
+2759,universalroyalcoin,Universalroyalcoin,2018-01-15 20:40:27.960,UNRC
+2760,shacoin,Shacoin,2018-01-15 20:40:27.960,SHA
+2761,marxcoin,Marxcoin,2018-01-15 20:40:27.960,MARX
+2762,rcoin,Rcoin,2018-01-15 20:40:27.960,RCN
+2763,storjcoin-x,Storjcoin X,2018-01-15 20:40:27.960,SJCX
+2764,swapcoin,Swapcoin,2018-01-15 20:40:27.960,SWP
+2765,ugain,Ugain,2018-01-15 20:40:27.960,GAIN
+2766,birds,Birds,2018-01-15 20:40:27.960,BIRDS
+2767,goldmaxcoin,Goldmaxcoin,2018-01-15 20:40:27.960,GMX
+2768,bastonet,Bastonet,2018-01-15 20:40:27.960,BSN
+2769,runners,Runners,2018-01-15 20:40:27.963,RUNNERS
+2770,ibtc,Ibtc,2018-01-15 20:40:27.963,IBTC
+2771,golfcoin,Golfcoin,2018-01-15 20:40:27.963,GOLF
+2772,egold,Egold,2018-01-15 20:40:27.963,EGOLD
+2773,pinkdog,Pinkdog,2018-01-15 20:40:27.963,PDG
+2774,ox-fina,Ox Fina,2018-01-15 20:40:27.963,OX
+2775,ebit,Ebit,2018-01-15 20:40:27.963,EBIT
+2776,karmacoin,Karmacoin,2018-01-15 20:40:27.963,KARMA
+2777,tellurion,Tellurion,2018-01-15 20:40:27.963,TELL
+2778,wink,Wink,2018-01-15 20:40:27.963,WINK
+2779,blazercoin,Blazercoin,2018-01-15 20:40:27.967,BLAZR
+2780,first-bitcoin,First Bitcoin,2018-01-15 20:40:27.967,BIT
+2781,teracoin,Teracoin,2018-01-15 20:40:27.967,TERA
+2782,bubble,Bubble,2018-01-15 20:40:27.967,BUB
+2783,soma,Soma,2018-01-15 20:40:27.967,SCT
+2784,richcoin,Richcoin,2018-01-15 20:40:27.967,RICHX
+2785,deuscoin,Deuscoin,2018-01-15 20:40:27.967,DEUS
+2786,netbit,Netbit,2018-01-15 20:40:27.967,NBIT
+2787,rupaya-old,Rupaya Old,2018-01-15 20:40:27.967,RUPX
+2788,aseancoin,Aseancoin,2018-01-15 20:40:27.967,ASN
+2789,happy-creator-coin,Happy Creator Coin,2018-01-15 20:40:27.970,HCC
+2790,moneta2,Moneta2,2018-01-15 20:40:27.970,MONETA
+2791,pokecoin,Pokecoin,2018-01-15 20:40:27.970,POKE
+2792,deltacredits,Deltacredits,2018-01-15 20:40:27.970,DCRE
+2793,axiom,Axiom,2018-01-15 20:40:27.970,AXIOM
+2794,royalcoin,Royalcoin,2018-01-15 20:40:27.970,ROYAL
+2795,dashs,Dashs,2018-01-15 20:40:27.970,DASHS
+2796,betacoin,Betacoin,2018-01-15 20:40:27.970,BET
+2797,cheapcoin,Cheapcoin,2018-01-15 20:40:27.970,CHEAP
+2798,avoncoin,Avoncoin,2018-01-15 20:40:27.970,ACN
+2799,gameleaguecoin,Gameleaguecoin,2018-01-15 20:40:27.970,GML
+2800,alpacoin,Alpacoin,2018-01-15 20:40:27.970,APC
+2801,global-business-revolution,Global Business Revolution,2018-01-15 20:40:27.970,GBRC
+2802,eltc,Eltc,2018-01-15 20:40:27.970,ELTC2
+2803,teamup,Teamup,2018-01-15 20:40:27.973,TEAM
+2804,stex,Stex,2018-01-15 20:40:27.973,STEX
+2805,10mtoken,10mtoken,2018-01-15 20:40:27.973,10MT
+2806,mavro,Mavro,2018-01-15 20:40:27.973,MAVRO
+2807,cybercoin,Cybercoin,2018-01-15 20:40:27.973,CC
+2808,paypeer,Paypeer,2018-01-15 20:40:27.973,PAYP
+2809,topaz,Topaz,2018-01-15 20:40:27.973,TOPAZ
+2810,kashhcoin,Kashhcoin,2018-01-15 20:40:27.973,KASHH
+2811,cash-poker-pro,Cash Poker Pro,2018-01-15 20:40:27.977,CASH
+2812,bitalphacoin,Bitalphacoin,2018-01-15 20:40:27.977,BAC
+2813,president-trump,President Trump,2018-01-15 20:40:27.977,PRES
+2814,wa-space,Wa Space,2018-01-15 20:40:27.977,WA
+2815,lepen,Lepen,2018-01-15 20:40:27.977,LEPEN
+2816,operand,Operand,2018-01-15 20:40:27.977,OP
+2817,infinity-pay,Infinity Pay,2018-01-15 20:40:27.977,IPY
+2818,natcoin,Natcoin,2018-01-15 20:40:27.977,NTC
+2819,hyper,Hyper,2018-01-15 20:40:27.977,HYPER
+2820,thecreed,Thecreed,2018-01-15 20:40:27.980,TCR
+2821,namocoin,Namocoin,2018-01-15 20:40:27.980,NAMO
+2822,leekico,Leekico,2018-01-15 20:40:27.980,LEEK
+2823,eggcoin,Eggcoin,2018-01-15 20:40:27.980,EGG
+2824,peoplecoin,Peoplecoin,2018-01-15 20:40:27.980,MEN
+2825,quotient,Quotient,2018-01-15 20:40:27.980,XQN
+2826,pabyosi-coin-special,Pabyosi Coin Special,2018-01-15 20:40:27.980,PCS
+2827,qora,Qora,2018-01-15 20:40:27.980,QORA
+2828,x2,X2,2018-01-15 20:40:27.980,X2
+2829,frankywillcoin,Frankywillcoin,2018-01-15 20:40:27.980,FRWC
+2830,fireflycoin,Fireflycoin,2018-01-15 20:40:27.980,FFC
+2831,digital-bullion-gold,Digital Bullion Gold,2018-01-15 20:40:27.980,DBG
+2832,linkedcoin,Linkedcoin,2018-01-15 20:40:27.980,LKC
+2833,facecoin,Facecoin,2018-01-15 20:40:27.980,FC
+2834,shellcoin,Shellcoin,2018-01-15 20:40:27.983,SHELL
+2835,trickycoin,Trickycoin,2018-01-15 20:40:27.983,TRICK
+2836,yescoin,Yescoin,2018-01-15 20:40:27.983,YES
+2837,the-vegan-initiative,The Vegan Initiative,2018-01-15 20:40:27.983,XVE
+2838,xaucoin,Xaucoin,2018-01-15 20:40:27.983,XAU
+2839,mmxvi,Mmxvi,2018-01-15 20:40:27.983,MMXVI
+2840,cashme,Cashme,2018-01-15 20:40:27.983,CME
+2841,xde-ii,Xde Ii,2018-01-15 20:40:27.983,XDE2
+2842,bitfid,Bitfid,2018-01-15 20:40:27.983,FID
+2843,voyacoin,Voyacoin,2018-01-15 20:40:27.983,VOYA
+2844,moneycoin,Moneycoin,2018-01-15 20:40:27.987,MONEY
+2845,darklisk,Darklisk,2018-01-15 20:40:27.987,DISK
+2846,sportscoin,Sportscoin,2018-01-15 20:40:27.987,SPORT
+2847,faceblock,Faceblock,2018-01-15 20:40:27.987,FBL
+2848,first-bitcoin-capital,First Bitcoin Capital,2018-01-15 20:40:27.987,BITCF
+2849,lazaruscoin,Lazaruscoin,2018-01-15 20:40:27.987,LAZ
+2850,utacoin,Utacoin,2018-01-15 20:40:27.987,UTA
+2851,psilocybin,Psilocybin,2018-01-15 20:40:27.987,PSY
+2852,rhfcoin,Rhfcoin,2018-01-15 20:40:27.987,RHFC
+2853,prismchain,Prismchain,2018-01-15 20:40:27.990,PRM
+2854,dubstep,Dubstep,2018-01-15 20:40:27.990,DUB
+2855,opescoin,Opescoin,2018-01-15 20:40:27.990,OPES
+2856,hyper-tv,Hyper Tv,2018-01-15 20:40:27.990,HYTV
+2857,lathaan,Lathaan,2018-01-15 20:40:27.990,LTH
+2858,avatarcoin,Avatarcoin,2018-01-15 20:40:27.990,AV
+2859,invisiblecoin,Invisiblecoin,2018-01-15 20:40:27.990,IVZ
+2860,omicron,Omicron,2018-01-15 20:40:27.990,OMC
+2861,futcoin,Futcoin,2018-01-15 20:40:27.990,FUTC
+2862,snakeeyes,Snakeeyes,2018-01-15 20:40:27.990,SNAKE
+2863,mobilecash,Mobilecash,2018-01-15 20:40:27.990,MBL
+2864,batcoin,Batcoin,2018-01-15 20:40:27.990,BAT
+2865,rabbitcoin,Rabbitcoin,2018-01-15 20:40:27.990,RBBT
+2866,teslacoilcoin,Teslacoilcoin,2018-01-15 20:40:27.993,TESLA
+2867,international-diamond,International Diamond,2018-01-15 20:40:27.993,XID
+2868,president-johnson,President Johnson,2018-01-15 20:40:27.993,GARY
+2869,internet-of-things,Internet Of Things,2018-01-15 20:40:27.993,XOT
+2870,goldunioncoin,Goldunioncoin,2018-01-15 20:40:27.993,GUC
+2871,aidos-kuneen,Aidos Kuneen,2018-01-15 20:40:27.993,ADK
+2872,royalties,Royalties,2018-01-15 20:40:27.993,XRY
+2873,ocow,Ocow,2018-01-15 20:40:27.993,OCOW
+2874,9coin,9coin,2018-01-15 20:40:27.993,9COIN
+2875,bt1-cst,Bt1 Cst,2018-01-15 20:40:27.993,BT1
+2876,bt2-cst,Bt2 Cst,2018-01-15 20:40:27.993,BT2
+2877,xylo,Xylo,2018-01-15 20:40:27.997,XYLO
+2878,santa-coin,Santa Coin,2018-01-15 20:40:27.997,STC
+2879,farstcoin,Farstcoin,2018-01-15 20:40:27.997,FRCT
+2880,madcoin,Madcoin,2018-01-15 20:40:27.997,MDC
+2881,entcash,Entcash,2018-01-15 20:40:27.997,ENT
+2882,kemcredit,Kemcredit,2018-01-15 20:40:27.997,KMC
+2883,oyster,Oyster,2018-01-17 10:14:09.140,PRL
+2884,iostoken,Iostoken,2018-01-17 10:14:10.977,IOST
+2885,spacechain,Spacechain,2018-01-17 10:14:10.993,SPC
+2886,moac,Moac,2018-01-17 10:14:11.047,MOAC
+2887,realchain,Realchain,2018-01-17 10:14:11.067,RCT
+2888,oneroot-network,Oneroot Network,2018-01-17 10:14:11.073,RNT
+2889,aichain,Aichain,2018-01-17 10:14:11.090,AIT
+2890,etherdelta-token,Etherdelta Token,2018-01-17 10:14:11.100,EDT
+2891,ethorse,Ethorse,2018-01-17 10:14:11.110,HORSE
+2892,investdigital,Investdigital,2018-01-17 10:14:11.123,IDT
+2893,qube,Qube,2018-01-17 10:14:11.130,QUBE
+2894,harvest-masternode-coin,Harvest Masternode Coin,2018-01-17 10:14:11.193,HC
+2895,tokyo,Tokyo,2018-01-17 10:14:11.200,TOKC
+2896,galactrum,Galactrum,2018-01-17 10:14:11.220,ORE
+2897,global-jobcoin,Global Jobcoin,2018-01-17 10:14:11.287,GJC
+2898,casinocoin,Casinocoin,2018-01-17 10:14:11.543,CSC
+2899,jiyo,Jiyo,2018-01-17 19:18:35.230,JIYO
+2900,theta-token,Theta Token,2018-01-17 19:38:52.930,THETA
+2901,profile-utility-token,Profile Utility Token,2018-01-17 19:38:52.983,PUT
+2902,purpose,Purpose,2018-01-17 19:38:53.013,PRPS
+2903,maverick-chain,Maverick Chain,2018-01-17 19:38:53.117,MVC
+2904,arbitragect,Arbitragect,2018-01-17 19:38:53.150,ARCT
+2905,aurora-dao,Aurora Dao,2018-01-19 03:51:08.223,AURA
+2906,insurepal,Insurepal,2018-01-19 03:51:08.950,IPL
+2907,singularitynet,Singularitynet,2018-01-19 03:51:08.953,AGI
+2908,idex-membership,Idex Membership,2018-01-19 03:51:09.010,IDXM
+2909,nitro,Nitro,2018-01-19 03:51:09.133,NOX
+2910,sharex,Sharex,2018-01-20 02:32:32.180,SEXC
+2911,chatcoin,Chatcoin,2018-01-20 02:32:32.407,CHAT
+2912,hydro-protocol,Hydro Protocol,2018-01-20 02:32:32.510,HOT
+2913,scryinfo,Scryinfo,2018-01-20 02:32:32.523,DDD
+2914,gatcoin,Gatcoin,2018-01-20 02:32:32.540,GAT
+2915,titanium-blockchain,Titanium Blockchain,2018-01-20 02:32:32.680,BAR
+2916,mobius,Mobius,2018-01-20 02:32:32.933,MOBI
+2917,lightchain,Lightchain,2018-01-20 11:13:15.583,LIGHT
+2918,acute-angle-cloud,Acute Angle Cloud,2018-01-20 11:13:15.590,AAC
+2919,yee,Yee,2018-01-20 11:13:15.610,YEE
+2920,selfsell,Selfsell,2018-01-20 11:13:15.617,SSC
+2921,starchain,Starchain,2018-01-20 11:13:15.630,STC
+2922,read,Read,2018-01-20 11:13:15.640,READ
+2923,ipchain,Ipchain,2018-01-20 11:13:15.650,IPC
+2924,maggie,Maggie,2018-01-20 11:13:15.677,MAG
+2925,reftoken,Reftoken,2018-01-20 11:13:15.713,REF
+2926,trinity-network-credit,Trinity Network Credit,2018-01-22 19:41:28.113,TNC
+2927,c20,C20,2018-01-22 19:41:29.547,C20
+2928,timescoin,Timescoin,2018-01-22 19:41:29.763,TMC
+2929,molecular-future,Molecular Future,2018-01-22 19:51:35.867,MOF
+2930,data,Data,2018-01-23 01:32:11.373,DTA
+2931,carvertical,Carvertical,2018-01-23 01:32:11.420,cV
+2932,crypterium,Crypterium,2018-01-23 01:32:11.453,CRPT
+2933,sparks,Sparks,2018-01-23 01:32:11.460,SPK
+2934,decentralized-universal-basic-income,Decentralized Universal Basic Income,2018-01-23 01:32:11.520,DUBI
+2935,block-array,Block Array,2018-01-23 08:33:34.650,ARY
+2936,covesting,Covesting,2018-01-23 08:33:34.717,COV
+2937,unlimitedip,Unlimitedip,2018-01-24 04:06:56.733,UIP
+2938,educare,Educare,2018-01-24 04:06:56.743,EKT
+2939,pressone,Pressone,2018-01-24 04:06:56.750,PRS
+2940,tokenbox,Tokenbox,2018-01-24 04:06:56.760,TBX
+2941,ofcoin,Ofcoin,2018-01-24 04:11:57.703,OF
+2942,true-chain,True Chain,2018-01-24 04:11:57.717,TRUE
+2943,odyssey,Odyssey,2018-01-24 06:46:51.353,OCN
+2944,indahash,Indahash,2018-01-24 06:46:51.360,IDH
+2945,guess,Guess,2018-01-24 06:46:51.410,GUESS
+2946,qbic,Qbic,2018-01-24 06:46:51.470,QBC
+2947,aidcoin,Aidcoin,2018-01-24 23:16:23.253,AID
+2948,devery,Devery,2018-01-24 23:16:23.557,EVE
+2949,bitcoin-lightning,Bitcoin Lightning,2018-01-24 23:16:23.590,BLT
+2950,blockport,Blockport,2018-01-24 23:16:23.713,BPT
+2951,origintrail,Origintrail,2018-01-25 05:44:59.600,TRAC
+2952,axpire,Axpire,2018-01-25 05:44:59.667,AXP
+2953,linkeye,Linkeye,2018-01-25 05:44:59.890,LET
+2954,coinmeet,Coinmeet,2018-01-25 23:52:33.047,MEE
+2955,pundi-x,Pundi X,2018-01-25 23:52:33.233,PSX
+2956,smartlands,Smartlands,2018-01-25 23:52:33.283,SLT
+2957,zilliqa,Zilliqa,2018-01-25 23:52:33.513,ZIL
+2958,fortuna,Fortuna,2018-01-26 04:34:47.067,FOTA
+2959,all-sports,All Sports,2018-01-27 07:35:53.890,SOC
+2960,matrix-ai-network,Matrix Ai Network,2018-01-27 07:35:54.170,MAN
+2961,garlicoin,Garlicoin,2018-01-27 07:35:54.277,GRLC
+2962,ruff,Ruff,2018-01-29 19:40:07.740,RUFF
+2963,coinfi,Coinfi,2018-01-29 19:40:08.380,COFI
+2964,nework,Nework,2018-01-29 19:40:08.440,NKC
+2965,blackmoon,Blackmoon,2018-01-30 05:51:03.553,BMC
+2966,gcn-coin,Gcn Coin,2018-01-30 05:51:03.837,GCN
+2967,halalchain,Halalchain,2018-01-30 07:22:58.107,HLC
+2968,equal,Equal,2018-01-30 07:22:58.180,EQL
+2969,electronic-pk-chain,Electronic Pk Chain,2018-01-30 23:10:20.440,EPC
+2970,zeepin,Zeepin,2018-01-30 23:10:20.870,ZPT
+2971,oceanchain,Oceanchain,2018-01-30 23:10:20.897,OC
+2972,cpchain,Cpchain,2018-01-30 23:10:20.917,CPC
+2973,valuechain,Valuechain,2018-01-30 23:10:20.930,VLC
+2974,candy,Candy,2018-01-30 23:10:20.933,CANDY
+2975,speed-mining-service,Speed Mining Service,2018-01-30 23:10:20.963,SMS
+2976,bitcoin-white,Bitcoin White,2018-01-30 23:10:21.033,BTW
+2977,health-mutual-society,Health Mutual Society,2018-01-30 23:10:21.307,HMS
+2978,sense,Sense,2018-01-31 21:47:31.070,SENSE
+2979,cargox,Cargox,2018-02-01 00:14:00.420,CXO
+2980,travelflex,Travelflex,2018-02-01 00:14:00.490,TRF
+2981,elastos,Elastos,2018-02-02 00:56:10.797,ELA
+2982,monero-gold,Monero Gold,2018-02-02 05:20:32.933,XMRG
+2983,pareto-network,Pareto Network,2018-02-02 05:20:32.937,PARETO
+2984,polymath-network,Polymath Network,2018-02-02 05:20:32.940,POLY
+2985,stk,Stk,2018-02-02 05:20:32.943,STK
+2986,grandcoin,Grandcoin,2018-02-03 02:36:47.827,GDC
+2987,zilla,Zilla,2018-02-03 21:10:18.213,ZIL
+2988,adbank,Adbank,2018-02-03 21:10:18.230,ADB
+2989,swissborg,Swissborg,2018-02-03 21:10:18.243,CHSB
+2990,medical-chain,Medical Chain,2018-02-03 21:10:18.247,MTN
+2991,huobi-token,Huobi Token,2018-02-03 22:00:45.760,HT
+2992,dmarket,Dmarket,2018-02-03 22:00:45.880,DMT
+2993,sportyco,Sportyco,2018-02-04 22:35:51.047,SPF
+2994,iungo,Iungo,2018-02-05 01:17:19.377,ING
+2995,jibrel-network,Jibrel Network,2018-02-05 23:14:40.413,JNT
+2996,bluzelle,Bluzelle,2018-02-06 20:35:05.610,BLZ
+2997,swarm-fund,Swarm Fund,2018-02-07 06:14:29.810,SWM
+2998,thekey,Thekey,2018-02-07 08:02:30.130,TKY
+2999,klondikecoin,Klondikecoin,2018-02-07 21:38:48.360,KDC
+3000,drp-utility,Drp Utility,2018-02-08 23:26:10.787,DRPU
+3001,ethersportz,Ethersportz,2018-02-09 02:12:24.810,ESZ
+3002,datawallet,Datawallet,2018-02-09 05:08:51.433,DXT
+3003,wepower,Wepower,2018-02-09 05:13:52.893,WPR
+3004,ucash,Ucash,2018-02-12 09:56:57.933,UCASH
+3005,locicoin,Locicoin,2018-02-12 09:56:58.160,LOCI
+3006,leafcoin,Leafcoin,2018-02-12 09:56:58.413,LEAF
+3007,animation-vision-cash,Animation Vision Cash,2018-02-12 09:56:58.690,AVH
+3008,acchain,Acchain,2018-02-12 09:56:58.700,ACC
+3009,mktcoin,Mktcoin,2018-02-12 09:56:58.710,MLM
+3010,shekel,Shekel,2018-02-12 09:56:58.713,JEW
+3011,goldmint,Goldmint,2018-02-12 09:56:58.717,MNTP
+3012,indicoin,Indicoin,2018-02-12 09:56:58.730,INDI
+3013,jesus-coin,Jesus Coin,2018-02-13 00:51:58.057,JC
+3014,slothcoin,Slothcoin,2018-02-13 07:07:20.533,SLOTH
+3015,sjwcoin,Sjwcoin,2018-02-14 05:31:11.707,SJW
+3016,sureremit,Sureremit,2018-02-16 10:06:15.217,RMT
+3017,fusion,Fusion,2018-02-16 10:06:15.770,FSN
+3018,universa,Universa,2018-02-16 10:06:15.780,UTNP
+3019,alphacat,Alphacat,2018-02-16 10:06:15.817,ACAT
+3020,envion,Envion,2018-02-16 10:06:15.820,EVN
+3021,tigereum,Tigereum,2018-02-16 10:06:15.827,TIG
+3022,superior-coin,Superior Coin,2018-02-16 10:06:15.830,SUP
+3023,levocoin,Levocoin,2018-02-16 10:06:15.840,LEVO
+3024,cashaa,Cashaa,2018-02-16 10:06:15.847,CAS
+3025,biocoin,Biocoin,2018-02-16 10:06:15.850,BIO
+3026,dether,Dether,2018-02-16 10:06:15.850,DTH
+3027,smoke,Smoke,2018-02-16 10:06:15.953,SMOKE
+3028,w3coin,W3coin,2018-02-17 22:39:56.467,W3C
+3029,etherecash,Etherecash,2018-02-17 22:44:57.840,ECH
+3030,red-mwat,Red Mwat,2018-02-17 22:55:04.013,MWAT
+3031,gladius-token,Gladius Token,2018-02-17 23:30:23.197,GLA
+3032,nano,Nano,2018-02-18 03:47:22.913,NANO
+3033,waltonchain,Waltonchain,2018-02-18 03:47:22.920,WTC
+3034,xpa,Xpa,2018-02-18 03:47:22.950,XPA
+3035,get-protocol,Get Protocol,2018-02-18 03:47:23.077,GET
+3036,uniform-fiscal-object,Uniform Fiscal Object,2018-02-18 03:47:23.087,UFO
+3037,manna,Manna,2018-02-18 03:47:23.197,MANNA
+3038,hi-mutual-society,Hi Mutual Society,2018-02-18 03:47:23.340,HMC
+3039,dadi,Dadi,2018-02-20 04:01:07.323,DADI
+3040,neurotoken,Neurotoken,2018-02-20 04:01:07.360,NTK
+3041,gems-protocol,Gems Protocol,2018-02-20 23:59:36.433,GEM
+3042,bitshares-music,Bitshares Music,2018-02-21 06:02:52.277,MUSE
+3043,datacoin,Datacoin,2018-02-21 06:33:23.220,DTC
+3044,hive-project,Hive Project,2018-02-21 16:55:37.193,HVN
+3045,republic-protocol,Republic Protocol,2018-02-21 18:22:10.697,REN
+3046,litecoin-cash,Litecoin Cash,2018-02-22 00:37:49.003,LCC
+3047,polcoin,Polcoin,2018-02-22 21:30:22.090,PLC
+3048,tidex-token,Tidex Token,2018-02-23 03:05:32.957,TDX
+3049,copytrack,Copytrack,2018-02-23 19:19:27.630,CPY
+3050,karbo,Karbo,2018-02-23 19:54:55.827,KRB
+3051,nucleus-vision,Nucleus Vision,2018-02-26 18:16:16.510,NCASH
+3052,arcblock,Arcblock,2018-02-26 18:46:25.733,ABT
+3053,remme,Remme,2018-02-26 19:42:09.607,REM
+3054,experty,Experty,2018-02-26 22:24:39.290,EXY
+3055,reset-energy-mwat,Reset Energy Mwat,2018-02-27 21:23:40.700,MWAT
+3056,tiesdb,Tiesdb,2018-02-27 21:48:48.943,TIE
+3057,restart-energy-mwat,Restart Energy Mwat,2018-02-28 00:25:12.723,MWAT
+3058,sociall,Sociall,2018-02-28 00:55:37.083,SCL
+3059,poa-network,Poa Network,2018-02-28 18:40:41.937,POA
+3060,rock,Rock,2018-02-28 22:37:38.703,RKT
+3061,ink-protocol,Ink Protocol,2018-02-28 22:37:38.727,XNK
+3062,bezop,Bezop,2018-03-01 03:10:32.610,BEZ
+3063,iht-real-estate-protocol,Iht Real Estate Protocol,2018-03-01 22:35:23.770,IHT
+3064,refereum,Refereum,2018-03-01 22:35:23.780,RFR
+3065,lympo,Lympo,2018-03-01 23:28:24.460,LYM
+3066,sether,Sether,2018-03-01 23:28:24.477,SETH
+3067,credits,Credits,2018-03-03 03:10:58.240,CS
+3068,insights-network,Insights Network,2018-03-03 03:10:58.260,INSTAR
+3069,bee-token,Bee Token,2018-03-03 03:10:58.263,BEE
+3070,cube,Cube,2018-03-04 04:55:14.037,AUTO
+3071,liveedu,Liveedu,2018-03-06 02:47:31.713,LEDU
+3072,interplanetary-broadcast-coin,Interplanetary Broadcast Coin,2018-03-06 02:47:31.730,IPBC
+3073,eztoken,Eztoken,2018-03-06 02:47:31.737,EZT
+3074,true-usd,True Usd,2018-03-06 06:36:07.487,TUSD
+3075,education-ecosystem,Education Ecosystem,2018-03-06 08:29:01.870,LEDU
+3076,bitwhite,Bitwhite,2018-03-06 20:26:06.380,BTW
+3077,ammo-reloaded,Ammo Reloaded,2018-03-06 20:55:39.173,AMMO
+3078,blox,Blox,2018-03-07 20:00:24.980,CDT
+3079,hoqu,Hoqu,2018-03-08 02:42:43.697,HQX
+3080,startercoin,Startercoin,2018-03-08 03:21:37.203,STAC
+3081,gxchain,Gxchain,2018-03-08 04:03:52.427,GXS
+3082,ontology,Ontology,2018-03-08 09:23:11.763,ONT
+3083,datx,Datx,2018-03-08 09:29:39.387,DATX
+3084,jet8,Jet8,2018-03-08 19:01:37.113,J8T
+3085,coinpoker,Coinpoker,2018-03-09 00:25:54.487,CHP
+3086,tomochain,Tomochain,2018-03-09 00:39:10.330,TOMO
+3087,electrifyasia,Electrifyasia,2018-03-09 20:07:16.020,ELEC
+3088,babb,Babb,2018-03-09 20:07:16.040,BAX
+3089,graft,Graft,2018-03-09 20:07:16.053,GRFT
+3090,spherepay,Spherepay,2018-03-10 00:00:58.067,SAY
+3091,bitcoin-private,Bitcoin Private,2018-03-10 17:59:52.860,BTCP
+3092,tokenomy,Tokenomy,2018-03-10 21:21:30.980,TEN
+3093,te-food,Te Food,2018-03-10 22:40:37.470,TFD
+3094,ravencoin,Ravencoin,2018-03-10 22:46:59.540,RVN
+3095,shipchain,Shipchain,2018-03-10 22:59:54.980,SHIP
+3096,leadcoin,Leadcoin,2018-03-12 22:11:05.283,LDC
+3097,sharpe-capital,Sharpe Capital,2018-03-13 00:21:53.620,SHP
+3098,lala-world,Lala World,2018-03-13 00:21:53.633,LALA
+3099,octoin-coin,Octoin Coin,2018-03-13 00:41:51.723,OCC
+3100,sharpe-platform-token,Sharpe Platform Token,2018-03-13 17:08:10.960,SHP
+3101,bullion,Bullion,2018-03-13 20:32:10.450,CBX
+3102,debitum-network,Debitum Network,2018-03-14 00:47:02.290,DEB
+3103,centrality,Centrality,2018-03-14 01:42:52.493,CENNZ
+3104,storiqa,Storiqa,2018-03-14 17:26:11.550,STQ
+3105,havven,Havven,2018-03-14 18:59:58.740,HAV
+3106,loom-network,Loom Network,2018-03-14 22:36:28.990,LOOM
+3107,legolas-exchange,Legolas Exchange,2018-03-14 22:36:29.097,LGO
+3108,guaranteed-ethurance-token-extra,Guaranteed Ethurance Token Extra,2018-03-15 00:23:39.003,GETX
+3109,fluz,Fluz,2018-03-15 16:00:52.033,FLUZ
+3110,fluz-fluz,Fluz Fluz,2018-03-15 17:23:21.057,FLUZ
+3111,revolutionvr,Revolutionvr,2018-03-16 16:02:57.160,VOX
+3112,hirematch,Hirematch,2018-03-18 20:13:06.340,HIRE
+3113,dropil,Dropil,2018-03-19 08:17:59.410,DROP
+3114,banca,Banca,2018-03-19 16:35:04.760,BANCA
+3115,ost,Ost,2018-03-20 02:07:56.337,OST
+3116,global-cryptocurrency,Global Cryptocurrency,2018-03-21 10:12:52.490,GCC
+3117,uptoken,Uptoken,2018-03-21 10:12:52.750,UP
+3118,dragon-coins,Dragon Coins,2018-03-21 10:12:52.757,DRG
+3119,nanjcoin,Nanjcoin,2018-03-21 10:12:52.797,NANJ
+3120,noah-coin,Noah Coin,2018-03-22 11:17:44.060,NOAH
+3121,banyan-network,Banyan Network,2018-03-22 11:17:44.097,BBN
+3122,1world,1world,2018-03-22 11:17:44.123,1WO
+3123,latiumx,Latiumx,2018-03-22 11:17:44.130,LATX
+3124,napoleonx,Napoleonx,2018-03-22 11:17:44.160,NPX
+3125,pundi-x-old,Pundi X Old,2018-03-23 08:27:03.823,PXS
+3126,bitcoin-green,Bitcoin Green,2018-03-23 08:27:04.393,BITG
+3127,bnktothefuture,Bnktothefuture,2018-03-23 08:27:04.410,BFT
+3128,mediccoin,Mediccoin,2018-03-23 08:27:04.507,MEDIC
+
+(1687 rows affected)
