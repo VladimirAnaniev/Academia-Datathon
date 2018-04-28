@@ -13,16 +13,14 @@ from radpet.utilki.timeframe import series_to_supervised
 def get_features(data):
     features = pd.DataFrame()
     features['price'] = data['price']
-    features['marketCap'] = data['marketCap']
-    # features['supply'] = data['CirculatingSupply']
-    # features['volume24h'] = data['Volume24h']
+    # features['marketCap'] = data['marketCap']
     return features
 
 
 def preprocess(data):
     scaled, scaler = scale(data)
     data = series_to_supervised(scaled, 1, 1)
-    data = data.drop(data.columns[[3]], axis=1)
+    # data = data.drop(data.columns[[3]], axis=1)
 
     return data, scaler
 
@@ -44,7 +42,7 @@ def create_model(timesteps, units):
     return model
 
 
-def create_model_for_coin(coin, basepath='./2features'):
+def create_model_for_coin(coin, basepath='./only_price'):
     coin_data = pd.read_csv('../data/train/' + str(coin) + '.csv', index_col='time')
 
     features = get_features(coin_data).values

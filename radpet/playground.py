@@ -14,7 +14,7 @@ def get_data():
 
 
 def run():
-    MODEL_PATH = './baseline/2features/1442/checkpoints/weights.04-0.01.hdf5'
+    MODEL_PATH = './baseline/only_price/1442/checkpoints/weights.02-0.01.hdf5'
 
     model = load_model(MODEL_PATH)
 
